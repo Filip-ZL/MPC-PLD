@@ -1,0 +1,316 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Error: Error detected!   Expected Y = 1   Actual Y = 15   ( A = 0 , B = 1 )
+Time: 20 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 1 )
+Time: 20 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 2   Actual Y = 14   ( A = 0 , B = 2 )
+Time: 30 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 2 )
+Time: 30 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 3   Actual Y = 13   ( A = 0 , B = 3 )
+Time: 40 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 3 )
+Time: 40 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 4   Actual Y = 12   ( A = 0 , B = 4 )
+Time: 50 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 4 )
+Time: 50 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 5   Actual Y = 11   ( A = 0 , B = 5 )
+Time: 60 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 5 )
+Time: 60 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 6   Actual Y = 10   ( A = 0 , B = 6 )
+Time: 70 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 6 )
+Time: 70 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 7   Actual Y = 9   ( A = 0 , B = 7 )
+Time: 80 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 7 )
+Time: 80 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 8 )
+Time: 90 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 9   Actual Y = 7   ( A = 0 , B = 9 )
+Time: 100 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 9 )
+Time: 100 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 10   Actual Y = 6   ( A = 0 , B = 10 )
+Time: 110 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 10 )
+Time: 110 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 11   Actual Y = 5   ( A = 0 , B = 11 )
+Time: 120 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 11 )
+Time: 120 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 12   Actual Y = 4   ( A = 0 , B = 12 )
+Time: 130 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 12 )
+Time: 130 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 13   Actual Y = 3   ( A = 0 , B = 13 )
+Time: 140 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 13 )
+Time: 140 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 14   Actual Y = 2   ( A = 0 , B = 14 )
+Time: 150 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 14 )
+Time: 150 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 15   Actual Y = 1   ( A = 0 , B = 15 )
+Time: 160 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 0 , B = 15 )
+Time: 160 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 2   Actual Y = 0   ( A = 1 , B = 1 )
+Time: 180 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Z = '0'   Actual Z = '1'   ( A = 1 , B = 1 )
+Time: 180 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 3   Actual Y = 15   ( A = 1 , B = 2 )
+Time: 190 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 2 )
+Time: 190 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 4   Actual Y = 14   ( A = 1 , B = 3 )
+Time: 200 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 3 )
+Time: 200 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 5   Actual Y = 13   ( A = 1 , B = 4 )
+Time: 210 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 4 )
+Time: 210 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 6   Actual Y = 12   ( A = 1 , B = 5 )
+Time: 220 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 5 )
+Time: 220 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 7   Actual Y = 11   ( A = 1 , B = 6 )
+Time: 230 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 6 )
+Time: 230 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 8   Actual Y = 10   ( A = 1 , B = 7 )
+Time: 240 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 7 )
+Time: 240 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 8 )
+Time: 250 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 10   Actual Y = 8   ( A = 1 , B = 9 )
+Time: 260 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 9 )
+Time: 260 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 11   Actual Y = 7   ( A = 1 , B = 10 )
+Time: 270 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 10 )
+Time: 270 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 12   Actual Y = 6   ( A = 1 , B = 11 )
+Time: 280 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 11 )
+Time: 280 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 13   Actual Y = 5   ( A = 1 , B = 12 )
+Time: 290 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 12 )
+Time: 290 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 14   Actual Y = 4   ( A = 1 , B = 13 )
+Time: 300 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 13 )
+Time: 300 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 15   Actual Y = 3   ( A = 1 , B = 14 )
+Time: 310 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 1 , B = 14 )
+Time: 310 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 0   Actual Y = 2   ( A = 1 , B = 15 )
+Time: 320 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Z = '1'   Actual Z = '0'   ( A = 1 , B = 15 )
+Time: 320 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 3   Actual Y = 1   ( A = 2 , B = 1 )
+Time: 340 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 4   Actual Y = 0   ( A = 2 , B = 2 )
+Time: 350 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Z = '0'   Actual Z = '1'   ( A = 2 , B = 2 )
+Time: 350 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 5   Actual Y = 15   ( A = 2 , B = 3 )
+Time: 360 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 2 , B = 3 )
+Time: 360 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 6   Actual Y = 14   ( A = 2 , B = 4 )
+Time: 370 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 2 , B = 4 )
+Time: 370 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 7   Actual Y = 13   ( A = 2 , B = 5 )
+Time: 380 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 2 , B = 5 )
+Time: 380 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 8   Actual Y = 12   ( A = 2 , B = 6 )
+Time: 390 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 2 , B = 6 )
+Time: 390 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 9   Actual Y = 11   ( A = 2 , B = 7 )
+Time: 400 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 2 , B = 7 )
+Time: 400 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 2 , B = 8 )
+Time: 410 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 11   Actual Y = 9   ( A = 2 , B = 9 )
+Time: 420 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 2 , B = 9 )
+Time: 420 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 12   Actual Y = 8   ( A = 2 , B = 10 )
+Time: 430 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 2 , B = 10 )
+Time: 430 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 13   Actual Y = 7   ( A = 2 , B = 11 )
+Time: 440 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 2 , B = 11 )
+Time: 440 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 14   Actual Y = 6   ( A = 2 , B = 12 )
+Time: 450 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 2 , B = 12 )
+Time: 450 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 15   Actual Y = 5   ( A = 2 , B = 13 )
+Time: 460 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 2 , B = 13 )
+Time: 460 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 0   Actual Y = 4   ( A = 2 , B = 14 )
+Time: 470 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Z = '1'   Actual Z = '0'   ( A = 2 , B = 14 )
+Time: 470 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 1   Actual Y = 3   ( A = 2 , B = 15 )
+Time: 480 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 4   Actual Y = 2   ( A = 3 , B = 1 )
+Time: 500 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 5   Actual Y = 1   ( A = 3 , B = 2 )
+Time: 510 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 6   Actual Y = 0   ( A = 3 , B = 3 )
+Time: 520 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Z = '0'   Actual Z = '1'   ( A = 3 , B = 3 )
+Time: 520 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 7   Actual Y = 15   ( A = 3 , B = 4 )
+Time: 530 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 3 , B = 4 )
+Time: 530 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 8   Actual Y = 14   ( A = 3 , B = 5 )
+Time: 540 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 3 , B = 5 )
+Time: 540 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 9   Actual Y = 13   ( A = 3 , B = 6 )
+Time: 550 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 3 , B = 6 )
+Time: 550 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 10   Actual Y = 12   ( A = 3 , B = 7 )
+Time: 560 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 3 , B = 7 )
+Time: 560 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 3 , B = 8 )
+Time: 570 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 12   Actual Y = 10   ( A = 3 , B = 9 )
+Time: 580 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 3 , B = 9 )
+Time: 580 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 13   Actual Y = 9   ( A = 3 , B = 10 )
+Time: 590 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 3 , B = 10 )
+Time: 590 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 14   Actual Y = 8   ( A = 3 , B = 11 )
+Time: 600 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 3 , B = 11 )
+Time: 600 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 15   Actual Y = 7   ( A = 3 , B = 12 )
+Time: 610 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 3 , B = 12 )
+Time: 610 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 0   Actual Y = 6   ( A = 3 , B = 13 )
+Time: 620 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Z = '1'   Actual Z = '0'   ( A = 3 , B = 13 )
+Time: 620 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 1   Actual Y = 5   ( A = 3 , B = 14 )
+Time: 630 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 2   Actual Y = 4   ( A = 3 , B = 15 )
+Time: 640 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 5   Actual Y = 3   ( A = 4 , B = 1 )
+Time: 660 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 6   Actual Y = 2   ( A = 4 , B = 2 )
+Time: 670 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 7   Actual Y = 1   ( A = 4 , B = 3 )
+Time: 680 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 8   Actual Y = 0   ( A = 4 , B = 4 )
+Time: 690 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Z = '0'   Actual Z = '1'   ( A = 4 , B = 4 )
+Time: 690 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 9   Actual Y = 15   ( A = 4 , B = 5 )
+Time: 700 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 4 , B = 5 )
+Time: 700 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 10   Actual Y = 14   ( A = 4 , B = 6 )
+Time: 710 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 4 , B = 6 )
+Time: 710 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 11   Actual Y = 13   ( A = 4 , B = 7 )
+Time: 720 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 4 , B = 7 )
+Time: 720 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 4 , B = 8 )
+Time: 730 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 13   Actual Y = 11   ( A = 4 , B = 9 )
+Time: 740 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 4 , B = 9 )
+Time: 740 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 14   Actual Y = 10   ( A = 4 , B = 10 )
+Time: 750 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 4 , B = 10 )
+Time: 750 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 15   Actual Y = 9   ( A = 4 , B = 11 )
+Time: 760 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 4 , B = 11 )
+Time: 760 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 0   Actual Y = 8   ( A = 4 , B = 12 )
+Time: 770 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Z = '1'   Actual Z = '0'   ( A = 4 , B = 12 )
+Time: 770 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 1   Actual Y = 7   ( A = 4 , B = 13 )
+Time: 780 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 2   Actual Y = 6   ( A = 4 , B = 14 )
+Time: 790 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 3   Actual Y = 5   ( A = 4 , B = 15 )
+Time: 800 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 6   Actual Y = 4   ( A = 5 , B = 1 )
+Time: 820 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 7   Actual Y = 3   ( A = 5 , B = 2 )
+Time: 830 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 8   Actual Y = 2   ( A = 5 , B = 3 )
+Time: 840 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 9   Actual Y = 1   ( A = 5 , B = 4 )
+Time: 850 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 10   Actual Y = 0   ( A = 5 , B = 5 )
+Time: 860 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Z = '0'   Actual Z = '1'   ( A = 5 , B = 5 )
+Time: 860 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 11   Actual Y = 15   ( A = 5 , B = 6 )
+Time: 870 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 5 , B = 6 )
+Time: 870 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 12   Actual Y = 14   ( A = 5 , B = 7 )
+Time: 880 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 5 , B = 7 )
+Time: 880 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 5 , B = 8 )
+Time: 890 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 14   Actual Y = 12   ( A = 5 , B = 9 )
+Time: 900 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 5 , B = 9 )
+Time: 900 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 15   Actual Y = 11   ( A = 5 , B = 10 )
+Time: 910 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected C = '0'   Actual C = '1'   ( A = 5 , B = 10 )
+Time: 910 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 0   Actual Y = 10   ( A = 5 , B = 11 )
+Time: 920 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Z = '1'   Actual Z = '0'   ( A = 5 , B = 11 )
+Time: 920 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 1   Actual Y = 9   ( A = 5 , B = 12 )
+Time: 930 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 2   Actual Y = 8   ( A = 5 , B = 13 )
+Time: 940 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 3   Actual Y = 7   ( A = 5 , B = 14 )
+Time: 950 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 4   Actual Y = 6   ( A = 5 , B = 15 )
+Time: 960 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 7   Actual Y = 5   ( A = 6 , B = 1 )
+Time: 980 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 8   Actual Y = 4   ( A = 6 , B = 2 )
+Time: 990 ns  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
+Error: Error detected!   Expected Y = 9   Actual Y = 3   ( A = 6 , B = 3 )
+Time: 1 us  Iteration: 0  Process: /simple_adder_tb/line__47  File: D:/Documents/xjasek15/03_PC/adder_demo/adder_demo.srcs/sim_1/imports/03_PC/simple_adder_tb.vhd
