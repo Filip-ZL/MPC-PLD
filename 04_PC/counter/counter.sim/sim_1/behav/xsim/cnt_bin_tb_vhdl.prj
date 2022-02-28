@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../CV_04_templates/cnt_bin.vhd" \
+"../../../../../CV_04_templates/cnt_bin_tb.vhd" \
+
+# Do not sort compile order
+nosort
