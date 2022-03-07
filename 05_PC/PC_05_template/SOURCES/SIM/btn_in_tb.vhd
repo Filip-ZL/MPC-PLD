@@ -17,9 +17,9 @@ architecture Behavioral of btn_in_tb is
     ce                          : IN  STD_LOGIC;
     btn                         : IN  STD_LOGIC;
     btn_debounced               : OUT STD_LOGIC;
-    btn_egde_pos                : OUT STD_LOGIC;
-    btn_egde_neg                : OUT STD_LOGIC;
-    btn_egde_any                : OUT STD_LOGIC
+    btn_edge_pos                : OUT STD_LOGIC;
+    btn_edge_neg                : OUT STD_LOGIC;
+    btn_edge_any                : OUT STD_LOGIC
   );
   END COMPONENT btn_in;
 
@@ -80,16 +80,16 @@ BEGIN
 
   btn_in_i : btn_in
   GENERIC MAP(
-    DEB_PERIOD                  => 5
+    DEB_PERIOD                  => 2
   )
   PORT MAP(
     clk                         => clk,
     ce                          => ce,
     btn                         => btn,
     btn_debounced               => btn_debounced,
-    btn_egde_pos                => btn_egde_pos,
-    btn_egde_neg                => btn_egde_neg,
-    btn_egde_any                => btn_egde_any
+    btn_edge_pos                => btn_egde_pos,
+    btn_edge_neg                => btn_egde_neg,
+    btn_edge_any                => btn_egde_any
   );
 
   --------------------------------------------------------------------------------

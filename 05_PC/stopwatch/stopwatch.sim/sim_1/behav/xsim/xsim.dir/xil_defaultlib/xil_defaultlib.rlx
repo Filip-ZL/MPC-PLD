@@ -2,6 +2,9 @@
 2019.2
 Dec  5 2019
 05:06:03
-D:/Documents/xjasek15/MPC-PLD/05_PC/PC_05_template/SOURCES/SIM/stopwatch_tb.vhd,1646645457,vhdl,,,,stopwatch_tb,,,,,,,,
-D:/Documents/xjasek15/MPC-PLD/05_PC/PC_05_template/SOURCES/ce_gen.vhd,1646644180,vhdl,,,,ce_gen,,,,,,,,
-D:/Documents/xjasek15/MPC-PLD/05_PC/stopwatch/stopwatch.srcs/sources_1/new/stopwatch.vhd,1646645164,vhdl,,,,stopwatch,,,,,,,,
+D:/Documents/MPC-PLD/05_PC/PC_05_template/SOURCES/SIM/btn_in_tb.vhd,1646670525,vhdl,,,,btn_in_tb,,,,,,,,
+D:/Documents/MPC-PLD/05_PC/PC_05_template/SOURCES/ce_gen.vhd,1646668996,vhdl,,,,ce_gen,,,,,,,,
+D:/Documents/MPC-PLD/05_PC/stopwatch/stopwatch.srcs/sources_1/new/btn_in.vhd,1646670311,vhdl,,,,btn_in,,,,,,,,
+D:/Documents/MPC-PLD/05_PC/stopwatch/stopwatch.srcs/sources_1/new/debouncer.vhd,1646670141,vhdl,,,,debouncer,,,,,,,,
+D:/Documents/MPC-PLD/05_PC/stopwatch/stopwatch.srcs/sources_1/new/edge_detector.vhd,1646670409,vhdl,,,,edge_detector,,,,,,,,
+D:/Documents/MPC-PLD/05_PC/stopwatch/stopwatch.srcs/sources_1/new/sync_reg.vhd,1646665090,vhdl,,,,sync_reg,,,,,,,,
