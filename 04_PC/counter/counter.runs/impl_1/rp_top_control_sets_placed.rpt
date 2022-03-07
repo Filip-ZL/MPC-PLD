@@ -1,7 +1,7 @@
 Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 --------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2019.2.1 (win64) Build 2729669 Thu Dec  5 04:49:17 MST 2019
-| Date         : Mon Feb 28 10:08:24 2022
+| Date         : Tue Mar  1 11:15:39 2022
 | Host         : PC-096 running 64-bit major release  (build 9200)
 | Command      : report_control_sets -verbose -file rp_top_control_sets_placed.rpt
 | Design       : rp_top
