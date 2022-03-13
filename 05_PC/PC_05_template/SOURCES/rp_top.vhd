@@ -55,6 +55,16 @@ ARCHITECTURE Structural OF rp_top IS
     btn_edge_any                : OUT STD_LOGIC
   );
   END COMPONENT;
+  COMPONENT FSM
+  PORT(
+    clk         : IN std_logic;
+    btn_ss      : IN std_logic;
+    btn_lc      : IN std_logic;
+    cnt_EN      : OUT std_logic;
+    disp_EN     : OUT std_logic;
+    cnt_rst     : OUT std_logic
+  );
+  END COMPONENT;
   ------------------------------------------------------------------------------
   SIGNAL stopw_sig          : STD_LOGIC := '0';
   SIGNAL cnt_0              : STD_LOGIC_VECTOR( 3 DOWNTO 0);
@@ -111,26 +121,31 @@ BEGIN
   --------------------------------------------------------------------------------
   -- button input module
   gen_btn_in : FOR i IN 0 TO 3 GENERATE
-	btn_in_inst : btn_in
-		GENERIC MAP(
-			DEB_PERIOD => 5
-		)
-			PORT MAP(
-				clk => clk, 
-				ce => stopw_sig, 
-				btn => btn_i(i)
-	   );
-END GENERATE gen_btn_in;
+  btn_in_inst : btn_in
+  GENERIC MAP(
+      DEB_PERIOD => 5
+      )
+      PORT MAP(
+          clk => clk, 
+		  ce => stopw_sig, 
+		  btn => btn_i(i)
+ 	   );
+  END GENERATE gen_btn_in;
 
 
   --------------------------------------------------------------------------------
   -- stopwatch module (4-decade BCD counter)
-
+  
 
 
   --------------------------------------------------------------------------------
   -- stopwatch control FSM
-
+  FSM_i : FSM
+  PORT MAP(
+    clk => clk,
+    btn_ss => btn_i(1),
+    btn_lc => btn_i(3)
+  );
 
 
 ----------------------------------------------------------------------------------
