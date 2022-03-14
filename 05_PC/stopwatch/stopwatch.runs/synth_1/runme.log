@@ -1,0 +1,11 @@
+
+*** Running vivado
+    with args -log rp_top.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source rp_top.tcl
+
+
+****** Vivado v2019.2.1 (64-bit)
+  **** SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+  **** IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+source rp_top.tcl -notrace

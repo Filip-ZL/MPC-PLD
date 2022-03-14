@@ -66,19 +66,32 @@ BEGIN
             cnt_1_reg <= (OTHERS => '0');
             cnt_2_reg <= (OTHERS => '0');
             cnt_3_reg <= (OTHERS => '0');
+            cnt_0 <= STD_LOGIC_VECTOR(cnt_0_reg);
+            cnt_1 <= STD_LOGIC_VECTOR(cnt_1_reg);
+            cnt_2 <= STD_LOGIC_VECTOR(cnt_2_reg);
+            cnt_3 <= STD_LOGIC_VECTOR(cnt_3_reg);
 	    ELSE
-            cnt_0_reg <= cnt_0_next;
-            cnt_1_reg <= cnt_1_next;
-            cnt_2_reg <= cnt_2_next;
-            cnt_3_reg <= cnt_3_next;
+	       cnt_0_reg <= cnt_0_next;
+           cnt_1_reg <= cnt_1_next;
+           cnt_2_reg <= cnt_2_next;
+           cnt_3_reg <= cnt_3_next;
+	       if (disp_enable = '1') then
+                cnt_0 <= STD_LOGIC_VECTOR(cnt_0_reg);
+                cnt_1 <= STD_LOGIC_VECTOR(cnt_1_reg);
+                cnt_2 <= STD_LOGIC_VECTOR(cnt_2_reg);
+                cnt_3 <= STD_LOGIC_VECTOR(cnt_3_reg);
+            end if;
         END IF;
 	END IF;
 END PROCESS BCD_counter_REG;
 
 
-BCD_counter_comb : PROCESS (cnt_0_reg, ce)
+BCD_counter_comb : PROCESS (cnt_0_reg, ce, cnt_enable, cnt_1_reg, cnt_2_reg, cnt_3_reg)
 BEGIN
 	cnt_0_next <= cnt_0_reg; -- latch prevention
+	cnt_1_next <= cnt_1_reg;
+	cnt_2_next <= cnt_2_reg;
+	cnt_3_next <= cnt_3_reg;
 	IF (ce = '1') AND (cnt_enable = '1') THEN
 		IF cnt_0_reg = X"9" THEN
 			cnt_0_next <= (OTHERS => '0');
@@ -103,9 +116,6 @@ BEGIN
 	END IF;
 END PROCESS BCD_counter_comb;
 
-cnt_0 <= STD_LOGIC_VECTOR(cnt_0_reg);
-cnt_1 <= STD_LOGIC_VECTOR(cnt_1_reg);
-cnt_2 <= STD_LOGIC_VECTOR(cnt_2_reg);
-cnt_3 <= STD_LOGIC_VECTOR(cnt_3_reg);
+
 
 end Behavioral;
