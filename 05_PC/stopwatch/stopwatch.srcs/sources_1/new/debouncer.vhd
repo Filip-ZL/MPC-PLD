@@ -49,8 +49,9 @@ begin
         IF rising_edge(clk) THEN
             IF ce = '1' THEN
                 IF btn_in = '1' THEN
-                    IF counter /= DEB_PERIOD THEN
-                        counter <= counter + 1;
+                    counter <= counter + 1;
+                    IF counter = DEB_PERIOD THEN
+                        counter <= 1;
                     END IF;
                 END IF;
             END IF;
