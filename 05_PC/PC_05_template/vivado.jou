@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Mon Mar 21 08:25:26 2022
+# Process ID: 8996
+# Current directory: D:/Documents/xjasek15/MPC-PLD/05_PC/PC_05_template
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10968 D:\Documents\xjasek15\MPC-PLD\05_PC\PC_05_template\Stopwatch.xpr
+# Log file: D:/Documents/xjasek15/MPC-PLD/05_PC/PC_05_template/vivado.log
+# Journal file: D:/Documents/xjasek15/MPC-PLD/05_PC/PC_05_template\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Documents/xjasek15/MPC-PLD/05_PC/PC_05_template/Stopwatch.xpr
