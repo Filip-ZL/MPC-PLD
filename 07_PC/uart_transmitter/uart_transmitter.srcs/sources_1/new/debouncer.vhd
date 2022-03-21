@@ -42,21 +42,20 @@ entity debouncer is
 end debouncer;
 
 architecture Behavioral of debouncer is
-    SIGNAL counter   : POSITIVE RANGE 1 TO DEB_PERIOD + 1:= 1;
+    SIGNAL shreg   : STD_LOGIC_VECTOR(DEB_PERIOD - 1 DOWNTO 0);
+    SIGNAL ones    : STD_LOGIC_VECTOR(DEB_PERIOD - 1 DOWNTO 0) := (OTHERS => '1');
 begin
     debouncer: PROCESS(clk)
     BEGIN
         IF rising_edge(clk) THEN
             IF ce = '1' THEN
-                IF btn_in = '1' THEN
-                    counter <= counter + 1;
-                    IF counter = DEB_PERIOD THEN
-                        counter <= 1;
-                    END IF;
+                shreg <= shreg(DEB_PERIOD - 2 DOWNTO 0) & btn_in;
+                IF shreg = ones THEN
+                    btn_out <= '1';
+                ELSE
+                    btn_out <= '0';
                 END IF;
             END IF;
         END IF;
     END PROCESS;
-    
-    btn_out <= '1' WHEN counter = DEB_PERIOD ELSE '0';
 end Behavioral;

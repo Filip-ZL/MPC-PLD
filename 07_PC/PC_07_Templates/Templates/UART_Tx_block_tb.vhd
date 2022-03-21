@@ -93,7 +93,7 @@ begin
   UART_Tx_stimuli: PROCESS
   BEGIN
 
-    UART_Data_In  <= X"37";
+    UART_Data_In  <= X"AA";
     UART_Tx_start <= '0';
     WAIT FOR clk_period * 5;
     UART_Tx_start <= '1';

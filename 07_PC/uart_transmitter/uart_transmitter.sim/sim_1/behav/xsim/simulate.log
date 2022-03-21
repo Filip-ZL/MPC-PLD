@@ -1,2 +1,9 @@
 Vivado Simulator 2019.2
 Time resolution is 1 ps
+Note: ================================================================
+Time: 6120 ns  Iteration: 0  Process: /UART_Tx_block_tb/UART_Tx_stimuli  File: D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block_tb.vhd
+Note: Simulation finished!
+Time: 6120 ns  Iteration: 0  Process: /UART_Tx_block_tb/UART_Tx_stimuli  File: D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block_tb.vhd
+Failure: ================================================================
+Time: 6120 ns  Iteration: 0  Process: /UART_Tx_block_tb/UART_Tx_stimuli  File: D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block_tb.vhd
+$finish called at time : 6120 ns : File "D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block_tb.vhd" Line 107

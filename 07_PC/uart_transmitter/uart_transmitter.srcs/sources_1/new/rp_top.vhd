@@ -4,7 +4,7 @@ use IEEE.STD_LOGIC_1164.ALL;
 ----------------------------------------------------------------------------------
 ENTITY rp_top IS
   PORT (
-    CLK             : IN  STD_LOGIC;
+    clk             : IN  STD_LOGIC;
     BTN             : IN  STD_LOGIC_VECTOR (3 DOWNTO 0);
     SW              : IN  STD_LOGIC_VECTOR (3 DOWNTO 0);
     LED             : OUT STD_LOGIC_VECTOR (7 DOWNTO 0);
@@ -93,7 +93,7 @@ BEGIN
 
   seg_disp_driver_i : seg_disp_driver
   PORT MAP (
-    clk                 => CLK,
+    clk                 => clk,
     dig_1_i             => "0000",
     dig_2_i             => "0000",
     dig_3_i             => "0000",
@@ -107,7 +107,7 @@ BEGIN
   --------------------------------------------------------------------------------
   UART_Tx_block_i : UART_Tx_block
   PORT MAP(
-    clk                 => CLK,
+    clk                 => clk,
     UART_Tx_start       => btn_edge_pos_sig(0),
     UART_clk_EN         => clk_en,
     UART_Data_in        => UART_Data_in_sig,
@@ -120,14 +120,16 @@ BEGIN
     DIV_FACT => 434
   )
   PORT MAP(
-    clk                => CLK,
+    clk                => clk,
     srst               => '0',
     ce                 => '1',
     ce_o               => clk_en
   );
   
+  
+  
     -- button input module
-  gen_btn_in : FOR i IN 1 TO 3 GENERATE
+  gen_btn_in : FOR i IN 0 TO 3 GENERATE
   btn_in_inst : btn_in
   GENERIC MAP(
       DEB_PERIOD => 5

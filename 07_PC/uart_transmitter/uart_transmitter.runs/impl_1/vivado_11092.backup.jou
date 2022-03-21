@@ -2,8 +2,8 @@
 # Vivado v2019.2.1 (64-bit)
 # SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
 # IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
-# Start of session at: Mon Mar 21 10:39:54 2022
-# Process ID: 11176
+# Start of session at: Mon Mar 21 16:22:18 2022
+# Process ID: 11092
 # Current directory: D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.runs/impl_1
 # Command line: vivado.exe -log rp_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source rp_top.tcl -notrace
 # Log file: D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.runs/impl_1/rp_top.vdi

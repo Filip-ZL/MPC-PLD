@@ -2,8 +2,8 @@
 # Vivado v2019.2.1 (64-bit)
 # SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
 # IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
-# Start of session at: Mon Mar 21 10:58:57 2022
-# Process ID: 8344
+# Start of session at: Mon Mar 21 17:40:36 2022
+# Process ID: 2204
 # Current directory: D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.runs/synth_1
 # Command line: vivado.exe -log rp_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rp_top.tcl
 # Log file: D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.runs/synth_1/rp_top.vds
@@ -16,18 +16,15 @@ Attempting to get a license for feature 'Synthesis' and/or device 'xc7z010'
 INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7z010'
 INFO: [Device 21-403] Loading part xc7z010clg400-1
 INFO: Launching helper process for spawning children vivado processes
-INFO: Helper process launched with PID 12392 
+INFO: Helper process launched with PID 4536 
 ---------------------------------------------------------------------------------
-Starting RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:05 . Memory (MB): peak = 891.730 ; gain = 236.664
+Starting RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 891.184 ; gain = 235.500
 ---------------------------------------------------------------------------------
 INFO: [Synth 8-638] synthesizing module 'rp_top' [D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/rp_top.vhd:17]
-INFO: [Synth 8-3491] module 'seg_disp_driver' declared at 'D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.runs/synth_1/.Xil/Vivado-8344-PC-096/realtime/seg_disp_driver_stub.vhdl:5' bound to instance 'seg_disp_driver_i' of component 'seg_disp_driver' [D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/rp_top.vhd:94]
-INFO: [Synth 8-638] synthesizing module 'seg_disp_driver' [D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.runs/synth_1/.Xil/Vivado-8344-PC-096/realtime/seg_disp_driver_stub.vhdl:20]
+INFO: [Synth 8-3491] module 'seg_disp_driver' declared at 'D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.runs/synth_1/.Xil/Vivado-2204-PC-096/realtime/seg_disp_driver_stub.vhdl:5' bound to instance 'seg_disp_driver_i' of component 'seg_disp_driver' [D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/rp_top.vhd:94]
+INFO: [Synth 8-638] synthesizing module 'seg_disp_driver' [D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.runs/synth_1/.Xil/Vivado-2204-PC-096/realtime/seg_disp_driver_stub.vhdl:20]
 INFO: [Synth 8-3491] module 'UART_Tx_block' declared at 'D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block.vhd:5' bound to instance 'UART_Tx_block_i' of component 'UART_Tx_block' [D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/rp_top.vhd:108]
 INFO: [Synth 8-638] synthesizing module 'UART_Tx_block' [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block.vhd:16]
-WARNING: [Synth 8-614] signal 'UART_tx_busy_reg' is read in the process but is not in the sensitivity list [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block.vhd:40]
-WARNING: [Synth 8-614] signal 'bits_cnt' is read in the process but is not in the sensitivity list [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block.vhd:40]
-WARNING: [Synth 8-614] signal 'UART_Data_in_reg' is read in the process but is not in the sensitivity list [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block.vhd:40]
 INFO: [Synth 8-256] done synthesizing module 'UART_Tx_block' (1#1) [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block.vhd:16]
 	Parameter DIV_FACT bound to: 434 - type: integer 
 INFO: [Synth 8-3491] module 'ce_gen' declared at 'D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/ce_gen.vhd:27' bound to instance 'ce_gen_i' of component 'ce_gen' [D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/rp_top.vhd:118]
@@ -54,6 +51,8 @@ INFO: [Synth 8-256] done synthesizing module 'btn_in' (6#1) [D:/Documents/xjasek
 INFO: [Synth 8-3491] module 'btn_in' declared at 'D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/btn_in.vhd:34' bound to instance 'btn_in_inst' of component 'btn_in' [D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/rp_top.vhd:131]
 	Parameter DEB_PERIOD bound to: 5 - type: integer 
 INFO: [Synth 8-3491] module 'btn_in' declared at 'D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/btn_in.vhd:34' bound to instance 'btn_in_inst' of component 'btn_in' [D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/rp_top.vhd:131]
+	Parameter DEB_PERIOD bound to: 5 - type: integer 
+INFO: [Synth 8-3491] module 'btn_in' declared at 'D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/btn_in.vhd:34' bound to instance 'btn_in_inst' of component 'btn_in' [D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/rp_top.vhd:131]
 INFO: [Synth 8-256] done synthesizing module 'rp_top' (7#1) [D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.srcs/sources_1/new/rp_top.vhd:17]
 WARNING: [Synth 8-3331] design rp_top has unconnected port LED[7]
 WARNING: [Synth 8-3331] design rp_top has unconnected port LED[6]
@@ -62,9 +61,8 @@ WARNING: [Synth 8-3331] design rp_top has unconnected port LED[3]
 WARNING: [Synth 8-3331] design rp_top has unconnected port LED[2]
 WARNING: [Synth 8-3331] design rp_top has unconnected port LED[1]
 WARNING: [Synth 8-3331] design rp_top has unconnected port LED[0]
-WARNING: [Synth 8-3331] design rp_top has unconnected port BTN[0]
 ---------------------------------------------------------------------------------
-Finished RTL Elaboration : Time (s): cpu = 00:00:06 ; elapsed = 00:00:06 . Memory (MB): peak = 964.855 ; gain = 309.789
+Finished RTL Elaboration : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 964.695 ; gain = 309.012
 ---------------------------------------------------------------------------------
 
 Report Check Netlist: 
@@ -77,12 +75,12 @@ Report Check Netlist:
 Start Handling Custom Attributes
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Handling Custom Attributes : Time (s): cpu = 00:00:06 ; elapsed = 00:00:07 . Memory (MB): peak = 964.855 ; gain = 309.789
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:07 ; elapsed = 00:00:07 . Memory (MB): peak = 964.695 ; gain = 309.012
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:06 ; elapsed = 00:00:07 . Memory (MB): peak = 964.855 ; gain = 309.789
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:07 ; elapsed = 00:00:07 . Memory (MB): peak = 964.695 ; gain = 309.012
 ---------------------------------------------------------------------------------
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 964.855 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.002 . Memory (MB): peak = 964.695 ; gain = 0.000
 INFO: [Project 1-570] Preparing netlist for logic optimization
 
 Processing XDC Constraints
@@ -90,41 +88,35 @@ Initializing timing engine
 Parsing XDC File [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/seg_disp_driver/seg_disp_driver_in_context.xdc] for cell 'seg_disp_driver_i'
 Finished Parsing XDC File [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/seg_disp_driver/seg_disp_driver_in_context.xdc] for cell 'seg_disp_driver_i'
 Parsing XDC File [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/rp_top.xdc]
-WARNING: [Vivado 12-584] No ports matched 'clk'. [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/rp_top.xdc:55]
-WARNING: [Vivado 12-584] No ports matched 'clk'. [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/rp_top.xdc:56]
-WARNING: [Vivado 12-584] No ports matched 'clk'. [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/rp_top.xdc:59]
 Finished Parsing XDC File [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/rp_top.xdc]
-WARNING: [Project 1-498] One or more constraints failed evaluation while reading constraint file [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/rp_top.xdc] and the design contains unresolved black boxes. These constraints will be read post-synthesis (as long as their source constraint file is marked as used_in_implementation) and should be applied correctly then. You should review the constraints listed in the file [.Xil/rp_top_propImpl.xdc] and check the run log file to verify that these constraints were correctly applied.
 INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/rp_top.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/rp_top_propImpl.xdc].
 Resolution: To avoid this warning, move constraints listed in [.Xil/rp_top_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
 Completed Processing XDC Constraints
 
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1043.723 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1062.270 ; gain = 0.000
 INFO: [Project 1-111] Unisim Transformation Summary:
 No Unisim elements were transformed.
 
-Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.004 . Memory (MB): peak = 1043.723 ; gain = 0.000
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.004 . Memory (MB): peak = 1062.270 ; gain = 0.000
 ---------------------------------------------------------------------------------
-Finished Constraint Validation : Time (s): cpu = 00:00:13 ; elapsed = 00:00:14 . Memory (MB): peak = 1043.723 ; gain = 388.656
+Finished Constraint Validation : Time (s): cpu = 00:00:14 ; elapsed = 00:00:15 . Memory (MB): peak = 1062.270 ; gain = 406.586
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Loading Part and Timing Information
 ---------------------------------------------------------------------------------
 Loading part: xc7z010clg400-1
 ---------------------------------------------------------------------------------
-Finished Loading Part and Timing Information : Time (s): cpu = 00:00:13 ; elapsed = 00:00:14 . Memory (MB): peak = 1043.723 ; gain = 388.656
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:14 ; elapsed = 00:00:15 . Memory (MB): peak = 1062.270 ; gain = 406.586
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Applying 'set_property' XDC Constraints
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:13 ; elapsed = 00:00:14 . Memory (MB): peak = 1043.723 ; gain = 388.656
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:14 ; elapsed = 00:00:15 . Memory (MB): peak = 1062.270 ; gain = 406.586
 ---------------------------------------------------------------------------------
-WARNING: [Synth 8-327] inferring latch for variable 'tx_done_reg' [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block.vhd:32]
-WARNING: [Synth 8-327] inferring latch for variable 'UART_Tx_Data_out_reg_reg' [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block.vhd:35]
-WARNING: [Synth 8-327] inferring latch for variable 'bits_cnt_reg' [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block.vhd:44]
+INFO: [Synth 8-4471] merging register 'UART_Tx_busy_sig_reg' into 'UART_Tx_busy_reg' [D:/Documents/xjasek15/MPC-PLD/07_PC/PC_07_Templates/Templates/UART_Tx_block.vhd:30]
 ---------------------------------------------------------------------------------
-Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:13 ; elapsed = 00:00:15 . Memory (MB): peak = 1043.723 ; gain = 388.656
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:15 ; elapsed = 00:00:15 . Memory (MB): peak = 1062.270 ; gain = 406.586
 ---------------------------------------------------------------------------------
 
 Report RTL Partitions: 
@@ -138,18 +130,14 @@ Start RTL Component Statistics
 Detailed RTL Component Info : 
 +---Adders : 
 	   2 Input      9 Bit       Adders := 1     
-	   2 Input      4 Bit       Adders := 1     
-	   2 Input      3 Bit       Adders := 3     
 +---Registers : 
 	               10 Bit    Registers := 1     
 	                9 Bit    Registers := 1     
-	                3 Bit    Registers := 3     
-	                1 Bit    Registers := 22    
+	                5 Bit    Registers := 4     
+	                1 Bit    Registers := 32    
 +---Muxes : 
 	   2 Input      9 Bit        Muxes := 1     
-	   2 Input      4 Bit        Muxes := 1     
-	   2 Input      3 Bit        Muxes := 3     
-	   2 Input      1 Bit        Muxes := 6     
+	   2 Input      1 Bit        Muxes := 10    
 ---------------------------------------------------------------------------------
 Finished RTL Component Statistics 
 ---------------------------------------------------------------------------------
@@ -159,14 +147,11 @@ Start RTL Hierarchical Component Statistics
 Hierarchical RTL Component report 
 Module UART_Tx_block 
 Detailed RTL Component Info : 
-+---Adders : 
-	   2 Input      4 Bit       Adders := 1     
 +---Registers : 
 	               10 Bit    Registers := 1     
 	                1 Bit    Registers := 3     
 +---Muxes : 
-	   2 Input      4 Bit        Muxes := 1     
-	   2 Input      1 Bit        Muxes := 2     
+	   2 Input      1 Bit        Muxes := 5     
 Module ce_gen 
 Detailed RTL Component Info : 
 +---Adders : 
@@ -183,12 +168,10 @@ Detailed RTL Component Info :
 	                1 Bit    Registers := 2     
 Module debouncer 
 Detailed RTL Component Info : 
-+---Adders : 
-	   2 Input      3 Bit       Adders := 1     
 +---Registers : 
-	                3 Bit    Registers := 1     
+	                5 Bit    Registers := 1     
+	                1 Bit    Registers := 1     
 +---Muxes : 
-	   2 Input      3 Bit        Muxes := 1     
 	   2 Input      1 Bit        Muxes := 1     
 Module edge_detector 
 Detailed RTL Component Info : 
@@ -217,37 +200,13 @@ WARNING: [Synth 8-3331] design rp_top has unconnected port LED[3]
 WARNING: [Synth 8-3331] design rp_top has unconnected port LED[2]
 WARNING: [Synth 8-3331] design rp_top has unconnected port LED[1]
 WARNING: [Synth 8-3331] design rp_top has unconnected port LED[0]
-WARNING: [Synth 8-3331] design rp_top has unconnected port BTN[0]
-INFO: [Synth 8-3886] merging instance 'UART_Tx_block_i/UART_Data_in_reg_reg[9]' (FDE) to 'UART_Tx_block_i/UART_Data_in_reg_reg[5]'
-INFO: [Synth 8-3886] merging instance 'UART_Tx_block_i/UART_Data_in_reg_reg[8]' (FDE) to 'UART_Tx_block_i/UART_Data_in_reg_reg[5]'
-INFO: [Synth 8-3886] merging instance 'UART_Tx_block_i/UART_Data_in_reg_reg[7]' (FDE) to 'UART_Tx_block_i/UART_Data_in_reg_reg[5]'
-INFO: [Synth 8-3886] merging instance 'UART_Tx_block_i/UART_Data_in_reg_reg[6]' (FDE) to 'UART_Tx_block_i/UART_Data_in_reg_reg[5]'
-INFO: [Synth 8-3333] propagating constant 0 across sequential element (\UART_Tx_block_i/UART_Data_in_reg_reg[5] )
-INFO: [Synth 8-3333] propagating constant 0 across sequential element (\UART_Tx_block_i/UART_Data_in_reg_reg[4] )
-INFO: [Synth 8-3333] propagating constant 0 across sequential element (\UART_Tx_block_i/UART_Data_in_reg_reg[3] )
-INFO: [Synth 8-3333] propagating constant 0 across sequential element (\UART_Tx_block_i/UART_Data_in_reg_reg[2] )
-INFO: [Synth 8-3333] propagating constant 0 across sequential element (\UART_Tx_block_i/UART_Data_in_reg_reg[1] )
-INFO: [Synth 8-3333] propagating constant 0 across sequential element (\UART_Tx_block_i/UART_Data_in_reg_reg[0] )
-INFO: [Synth 8-3333] propagating constant 0 across sequential element (\UART_Tx_block_i/UART_tx_busy_reg_reg )
-WARNING: [Synth 8-264] enable of latch \UART_Tx_block_i/bits_cnt_reg[0]  is always disabled
-WARNING: [Synth 8-264] enable of latch \UART_Tx_block_i/bits_cnt_reg[0]  is always disabled
-WARNING: [Synth 8-264] enable of latch \UART_Tx_block_i/bits_cnt_reg[1]  is always disabled
-WARNING: [Synth 8-264] enable of latch \UART_Tx_block_i/bits_cnt_reg[1]  is always disabled
-WARNING: [Synth 8-264] enable of latch \UART_Tx_block_i/bits_cnt_reg[2]  is always disabled
-WARNING: [Synth 8-264] enable of latch \UART_Tx_block_i/bits_cnt_reg[2]  is always disabled
-WARNING: [Synth 8-264] enable of latch \UART_Tx_block_i/bits_cnt_reg[3]  is always disabled
-WARNING: [Synth 8-264] enable of latch \UART_Tx_block_i/bits_cnt_reg[3]  is always disabled
-INFO: [Synth 8-3333] propagating constant 0 across sequential element (\UART_Tx_block_i/UART_Tx_Data_out_reg_reg )
-INFO: [Synth 8-3886] merging instance 'UART_Tx_block_i/UART_Tx_Data_out_reg' (FD) to 'UART_Tx_block_i/UART_Tx_busy_reg'
-INFO: [Synth 8-3333] propagating constant 0 across sequential element (\UART_Tx_block_i/UART_Tx_busy_reg )
-WARNING: [Synth 8-3332] Sequential element (UART_Tx_block_i/tx_done_reg) is unused and will be removed from module rp_top.
-WARNING: [Synth 8-3332] Sequential element (UART_Tx_block_i/UART_Tx_Data_out_reg_reg) is unused and will be removed from module rp_top.
-WARNING: [Synth 8-3332] Sequential element (UART_Tx_block_i/bits_cnt_reg[3]) is unused and will be removed from module rp_top.
-WARNING: [Synth 8-3332] Sequential element (UART_Tx_block_i/bits_cnt_reg[2]) is unused and will be removed from module rp_top.
-WARNING: [Synth 8-3332] Sequential element (UART_Tx_block_i/bits_cnt_reg[1]) is unused and will be removed from module rp_top.
-WARNING: [Synth 8-3332] Sequential element (UART_Tx_block_i/bits_cnt_reg[0]) is unused and will be removed from module rp_top.
+INFO: [Synth 8-3886] merging instance 'UART_Tx_block_i/UART_data_reg_reg[8]' (FDE) to 'UART_Tx_block_i/UART_data_reg_reg[0]'
+INFO: [Synth 8-3886] merging instance 'UART_Tx_block_i/UART_data_reg_reg[7]' (FDE) to 'UART_Tx_block_i/UART_data_reg_reg[0]'
+INFO: [Synth 8-3886] merging instance 'UART_Tx_block_i/UART_data_reg_reg[6]' (FDE) to 'UART_Tx_block_i/UART_data_reg_reg[0]'
+INFO: [Synth 8-3886] merging instance 'UART_Tx_block_i/UART_data_reg_reg[5]' (FDE) to 'UART_Tx_block_i/UART_data_reg_reg[0]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (\UART_Tx_block_i/UART_data_reg_reg[0] )
 ---------------------------------------------------------------------------------
-Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:15 ; elapsed = 00:00:16 . Memory (MB): peak = 1043.723 ; gain = 388.656
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:17 ; elapsed = 00:00:17 . Memory (MB): peak = 1062.270 ; gain = 406.586
 ---------------------------------------------------------------------------------
 
 Report RTL Partitions: 
@@ -259,13 +218,13 @@ Report RTL Partitions:
 Start Applying XDC Timing Constraints
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:25 ; elapsed = 00:00:26 . Memory (MB): peak = 1043.723 ; gain = 388.656
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:26 ; elapsed = 00:00:26 . Memory (MB): peak = 1062.270 ; gain = 406.586
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Timing Optimization
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Timing Optimization : Time (s): cpu = 00:00:25 ; elapsed = 00:00:26 . Memory (MB): peak = 1043.723 ; gain = 388.656
+Finished Timing Optimization : Time (s): cpu = 00:00:26 ; elapsed = 00:00:27 . Memory (MB): peak = 1062.270 ; gain = 406.586
 ---------------------------------------------------------------------------------
 
 Report RTL Partitions: 
@@ -277,7 +236,7 @@ Report RTL Partitions:
 Start Technology Mapping
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Technology Mapping : Time (s): cpu = 00:00:25 ; elapsed = 00:00:26 . Memory (MB): peak = 1046.395 ; gain = 391.328
+Finished Technology Mapping : Time (s): cpu = 00:00:26 ; elapsed = 00:00:27 . Memory (MB): peak = 1068.379 ; gain = 412.695
 ---------------------------------------------------------------------------------
 
 Report RTL Partitions: 
@@ -301,13 +260,13 @@ Start Final Netlist Cleanup
 Finished Final Netlist Cleanup
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished IO Insertion : Time (s): cpu = 00:00:29 ; elapsed = 00:00:31 . Memory (MB): peak = 1062.207 ; gain = 407.141
+Finished IO Insertion : Time (s): cpu = 00:00:31 ; elapsed = 00:00:32 . Memory (MB): peak = 1073.184 ; gain = 417.500
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Renaming Generated Instances
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Renaming Generated Instances : Time (s): cpu = 00:00:29 ; elapsed = 00:00:31 . Memory (MB): peak = 1062.207 ; gain = 407.141
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:31 ; elapsed = 00:00:32 . Memory (MB): peak = 1073.184 ; gain = 417.500
 ---------------------------------------------------------------------------------
 
 Report RTL Partitions: 
@@ -326,25 +285,25 @@ Report Check Netlist:
 Start Rebuilding User Hierarchy
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:29 ; elapsed = 00:00:31 . Memory (MB): peak = 1062.207 ; gain = 407.141
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:31 ; elapsed = 00:00:32 . Memory (MB): peak = 1073.184 ; gain = 417.500
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Renaming Generated Ports
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Renaming Generated Ports : Time (s): cpu = 00:00:29 ; elapsed = 00:00:31 . Memory (MB): peak = 1062.207 ; gain = 407.141
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:31 ; elapsed = 00:00:32 . Memory (MB): peak = 1073.184 ; gain = 417.500
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Handling Custom Attributes
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Handling Custom Attributes : Time (s): cpu = 00:00:29 ; elapsed = 00:00:31 . Memory (MB): peak = 1062.207 ; gain = 407.141
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:31 ; elapsed = 00:00:32 . Memory (MB): peak = 1073.184 ; gain = 417.500
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Renaming Generated Nets
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Renaming Generated Nets : Time (s): cpu = 00:00:29 ; elapsed = 00:00:31 . Memory (MB): peak = 1062.207 ; gain = 407.141
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:31 ; elapsed = 00:00:32 . Memory (MB): peak = 1073.184 ; gain = 417.500
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Writing Synthesis Report
@@ -362,38 +321,55 @@ Report Cell Usage:
 |      |Cell                   |Count |
 +------+-----------------------+------+
 |1     |seg_disp_driver_bbox_0 |     1|
-|2     |IBUF                   |     1|
-|3     |OBUF                   |    15|
-|4     |OBUFT                  |     7|
+|2     |BUFG                   |     1|
+|3     |CARRY4                 |     8|
+|4     |LUT1                   |     1|
+|5     |LUT2                   |     5|
+|6     |LUT3                   |     6|
+|7     |LUT4                   |     9|
+|8     |LUT5                   |     5|
+|9     |LUT6                   |    10|
+|10    |FDRE                   |    59|
+|11    |IBUF                   |     6|
+|12    |OBUF                   |    15|
+|13    |OBUFT                  |     7|
 +------+-----------------------+------+
 
 Report Instance Areas: 
-+------+---------+-------+------+
-|      |Instance |Module |Cells |
-+------+---------+-------+------+
-|1     |top      |       |    36|
-+------+---------+-------+------+
++------+------------------------------+--------------+------+
+|      |Instance                      |Module        |Cells |
++------+------------------------------+--------------+------+
+|1     |top                           |              |   145|
+|2     |  UART_Tx_block_i             |UART_Tx_block |    64|
+|3     |  ce_gen_i                    |ce_gen        |    25|
+|4     |  \gen_btn_in[0].btn_in_inst  |btn_in        |    14|
+|5     |    debouncer_i               |debouncer     |     9|
+|6     |    edge_detector_i           |edge_detector |     3|
+|7     |    sync_reg_i                |sync_reg      |     2|
++------+------------------------------+--------------+------+
 ---------------------------------------------------------------------------------
-Finished Writing Synthesis Report : Time (s): cpu = 00:00:29 ; elapsed = 00:00:31 . Memory (MB): peak = 1062.207 ; gain = 407.141
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:31 ; elapsed = 00:00:32 . Memory (MB): peak = 1073.184 ; gain = 417.500
 ---------------------------------------------------------------------------------
-Synthesis finished with 0 errors, 0 critical warnings and 25 warnings.
-Synthesis Optimization Runtime : Time (s): cpu = 00:00:22 ; elapsed = 00:00:29 . Memory (MB): peak = 1062.207 ; gain = 328.273
-Synthesis Optimization Complete : Time (s): cpu = 00:00:30 ; elapsed = 00:00:31 . Memory (MB): peak = 1062.207 ; gain = 407.141
+Synthesis finished with 0 errors, 0 critical warnings and 7 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:21 ; elapsed = 00:00:29 . Memory (MB): peak = 1073.184 ; gain = 319.926
+Synthesis Optimization Complete : Time (s): cpu = 00:00:31 ; elapsed = 00:00:32 . Memory (MB): peak = 1073.184 ; gain = 417.500
 INFO: [Project 1-571] Translating synthesized netlist
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1062.207 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.002 . Memory (MB): peak = 1073.184 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 8 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
 INFO: [Project 1-570] Preparing netlist for logic optimization
 INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1072.059 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1084.426 ; gain = 0.000
 INFO: [Project 1-111] Unisim Transformation Summary:
 No Unisim elements were transformed.
 
 INFO: [Common 17-83] Releasing license: Synthesis
-48 Infos, 40 Warnings, 0 Critical Warnings and 0 Errors encountered.
+43 Infos, 14 Warnings, 0 Critical Warnings and 0 Errors encountered.
 synth_design completed successfully
-synth_design: Time (s): cpu = 00:00:36 ; elapsed = 00:00:39 . Memory (MB): peak = 1072.059 ; gain = 709.359
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1072.059 ; gain = 0.000
+synth_design: Time (s): cpu = 00:00:37 ; elapsed = 00:00:40 . Memory (MB): peak = 1084.426 ; gain = 721.188
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1084.426 ; gain = 0.000
 WARNING: [Constraints 18-5210] No constraints selected for write.
 Resolution: This message can indicate that there are no constraints for the design, or it can indicate that the used_in flags are set such that the constraints are ignored. This later case is used when running synth_design to not write synthesis constraints to the resulting checkpoint. Instead, project constraints are read when the synthesized design is opened.
 INFO: [Common 17-1381] The checkpoint 'D:/Documents/xjasek15/MPC-PLD/07_PC/uart_transmitter/uart_transmitter.runs/synth_1/rp_top.dcp' has been generated.
 INFO: [runtcl-4] Executing : report_utilization -file rp_top_utilization_synth.rpt -pb rp_top_utilization_synth.pb
-INFO: [Common 17-206] Exiting Vivado at Mon Mar 21 10:59:43 2022...
+INFO: [Common 17-206] Exiting Vivado at Mon Mar 21 17:41:23 2022...

@@ -59,10 +59,6 @@ set_property src_info {type:XDC file:1 line:52 export:INPUT save:INPUT read:READ
 set_property PACKAGE_PIN K16 [get_ports {DISP_DIG[0]}]
 set_property src_info {type:XDC file:1 line:55 export:INPUT save:INPUT read:READ} [current_design]
 set_property PACKAGE_PIN H16 [get_ports clk]
-set_property src_info {type:XDC file:1 line:56 export:INPUT save:INPUT read:READ} [current_design]
-set_property IOSTANDARD LVCMOS33 [get_ports clk]
-set_property src_info {type:XDC file:1 line:59 export:INPUT save:INPUT read:READ} [current_design]
-create_clock -period 20.000 -name clk -waveform {0.000 10.000} [get_ports clk]
 set_property src_info {type:XDC file:1 line:60 export:INPUT save:INPUT read:READ} [current_design]
 set_input_jitter clk 0.100
 set_property src_info {type:XDC file:1 line:62 export:INPUT save:INPUT read:READ} [current_design]

@@ -15,41 +15,43 @@ END UART_Tx_block;
 ----------------------------------------------------------------------------------
 ARCHITECTURE Behavioral OF UART_Tx_block IS
 ----------------------------------------------------------------------------------
-SIGNAL UART_Data_in_reg     : STD_LOGIC_VECTOR(9 DOWNTO 0) := (OTHERS => '0');
-SIGNAL UART_tx_busy_reg     : STD_LOGIC := '0';
-SIGNAL UART_Tx_Data_out_reg : STD_LOGIC := '0';
-SIGNAL bits_cnt             : INTEGER RANGE 0 TO 9 := 0;
-SIGNAL tx_done              : BOOLEAN := False;
-----------------------------------------------------------------------------------
-BEGIN
-----------------------------------------------------------------------------------
-PROCESS(clk) IS
-BEGIN
-    IF rising_edge(clk) THEN
-        IF (UART_Tx_start = '1') AND (UART_Tx_busy_reg = '0') THEN
-            UART_Data_in_reg <= '0' & UART_Data_in & '1';
-            UART_Tx_busy_reg <= '1';
-        ELSIF tx_done THEN
-            UART_Tx_busy_reg <= '0';
-        END IF;
-        UART_Tx_Data_out <= UART_Tx_Data_out_reg;
-        UART_Tx_busy <= UART_Tx_busy_reg;
-    END IF;
-END PROCESS;
+SIGNAL UART_data_reg    : STD_LOGIC_VECTOR(9 DOWNTO 0) := (OTHERS => '0');
+SIGNAL UART_Tx_busy_sig : BOOLEAN := FALSE;
+SIGNAL Tx_enable        : BOOLEAN := FALSE;
+SIGNAL bit_cnt          : NATURAL := 0;
 
-shift_register: PROCESS(UART_clk_EN) IS
+----------------------------------------------------------------------------------
 BEGIN
-    IF (UART_clk_EN = '1') AND (UART_Tx_busy_reg = '1') THEN
-        tx_done <= False;
-        IF bits_cnt = 9 THEN
-            bits_cnt <= 0;
-            tx_done <= True;
-        ELSE
-            UART_Tx_Data_out_reg <= UART_Data_in_reg(bits_cnt);
-            bits_cnt <= bits_cnt + 1;
-        END IF;       
+----------------------------------------------------------------------------------
+  PROCESS (clk) 
+  BEGIN
+    IF rising_edge(clk) THEN
+    
+      IF (UART_Tx_start = '1' AND NOT(UART_Tx_busy_sig)) THEN
+        UART_data_reg <= '1' & UART_Data_in & '0';
+        UART_Tx_busy <= '1';
+        UART_Tx_busy_sig <= TRUE;
+        Tx_enable <= TRUE;
+      END IF;
+    
+      IF (UART_clk_EN = '1') THEN
+      
+        IF Tx_enable THEN
+          UART_Tx_Data_out <= UART_data_reg(bit_cnt);
+          bit_cnt <= bit_cnt + 1;
+          
+          IF bit_cnt >= 9 THEN
+            Tx_enable <= FALSE;
+            UART_Tx_busy_sig <= FALSE;
+            bit_cnt <= 0;
+            UART_Tx_busy <= '0'; 
+          END IF;
+          
+        END IF;
+        
+      END IF;
     END IF;
-END PROCESS;
+  END PROCESS;
 
 ----------------------------------------------------------------------------------
 END Behavioral;
