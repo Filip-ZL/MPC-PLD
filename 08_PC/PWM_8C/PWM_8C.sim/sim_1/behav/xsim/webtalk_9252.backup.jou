@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Mon Mar 28 09:02:42 2022
+# Process ID: 9252
+# Current directory: D:/Documents/xjasek15/MPC-PLD/08_PC/PWM_8C/PWM_8C.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Documents/xjasek15/MPC-PLD/08_PC/PWM_8C/PWM_8C.sim/sim_1/behav/xsim/xsim.dir/rp_top_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Documents/xjasek15/MPC-PLD/08_PC/PWM_8C/PWM_8C.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Documents/xjasek15/MPC-PLD/08_PC/PWM_8C/PWM_8C.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Documents/xjasek15/MPC-PLD/08_PC/PWM_8C/PWM_8C.sim/sim_1/behav/xsim/xsim.dir/rp_top_behav/webtalk/xsim_webtalk.tcl -notrace

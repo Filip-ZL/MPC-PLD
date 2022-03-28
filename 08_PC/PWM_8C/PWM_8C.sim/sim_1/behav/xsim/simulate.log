@@ -1,0 +1,8 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Note: 
+================================================================
+Simulation finished! Check the waveform window!
+================================================================
+
+Time: 40 us  Iteration: 0  Process: /pwm_driver_tb/line__83  File: D:/Documents/xjasek15/MPC-PLD/08_PC/PC_08_template/SOURCES/pwm_driver_tb.vhd

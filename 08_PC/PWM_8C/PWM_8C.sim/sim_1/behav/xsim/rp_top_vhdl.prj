@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../PC_08_template/SOURCES/btn_in.vhd" \
+"../../../../../PC_08_template/SOURCES/ce_gen.vhd" \
+"../../../../../PC_08_template/SOURCES/rp_top.vhd" \
+
+# Do not sort compile order
+nosort
