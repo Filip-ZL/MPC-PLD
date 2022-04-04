@@ -71,14 +71,53 @@ ARCHITECTURE Structural OF rp_top IS
     CNT_OUT             : OUT STD_LOGIC_VECTOR (7 DOWNTO 0)
   );
   END COMPONENT;
+COMPONENT ila_pwm
+
+PORT (
+	clk : IN STD_LOGIC;
+
+
+
+	probe0 : IN STD_LOGIC_VECTOR(7 DOWNTO 0); 
+	probe1 : IN STD_LOGIC_VECTOR(7 DOWNTO 0); 
+	probe2 : IN STD_LOGIC_VECTOR(3 DOWNTO 0);
+	probe3 : IN STD_LOGIC_VECTOR(3 DOWNTO 0)
+);
+END COMPONENT  ;
+
+COMPONENT vio_pwm
+  PORT (
+    clk : IN STD_LOGIC;
+    probe_in0 : IN STD_LOGIC_VECTOR(7 DOWNTO 0);
+    probe_in1 : IN STD_LOGIC_VECTOR(7 DOWNTO 0);
+    probe_out0 : OUT STD_LOGIC_VECTOR(7 DOWNTO 0);
+    probe_out1 : OUT STD_LOGIC_VECTOR(7 DOWNTO 0);
+    probe_out2 : OUT STD_LOGIC_VECTOR(7 DOWNTO 0);
+    probe_out3 : OUT STD_LOGIC_VECTOR(7 DOWNTO 0);
+    probe_out4 : OUT STD_LOGIC_VECTOR(7 DOWNTO 0);
+    probe_out5 : OUT STD_LOGIC_VECTOR(7 DOWNTO 0);
+    probe_out6 : OUT STD_LOGIC_VECTOR(7 DOWNTO 0);
+    probe_out7 : OUT STD_LOGIC_VECTOR(7 DOWNTO 0);
+    probe_out8 : OUT STD_LOGIC_VECTOR(3 DOWNTO 0);
+    probe_out9 : OUT STD_LOGIC_VECTOR(3 DOWNTO 0);
+    probe_out10 : OUT STD_LOGIC_VECTOR(3 DOWNTO 0);
+    probe_out11 : OUT STD_LOGIC_VECTOR(3 DOWNTO 0)
+  );
+END COMPONENT;
   --------------------------------------------------------------------------------
 
   SIGNAL clk_en_100Hz       : STD_LOGIC;
 
+  SIGNAL pwm_out            : STD_LOGIC_VECTOR( 7 DOWNTO 0);
+  SIGNAL cnt_out            : STD_LOGIC_VECTOR( 7 DOWNTO 0);
   SIGNAL btn_deb_o          : STD_LOGIC_VECTOR( 3 DOWNTO 0);
   SIGNAL btn_posedge_o      : STD_LOGIC_VECTOR( 3 DOWNTO 0);
   SIGNAL btn_negedge_o      : STD_LOGIC_VECTOR( 3 DOWNTO 0);
   SIGNAL btn_edge_o         : STD_LOGIC_VECTOR( 3 DOWNTO 0);
+  SIGNAL dig_1_i            : STD_LOGIC_VECTOR( 3 DOWNTO 0);
+  SIGNAL dig_2_i            : STD_LOGIC_VECTOR( 3 DOWNTO 0);  
+  SIGNAL dig_3_i            : STD_LOGIC_VECTOR( 3 DOWNTO 0);
+  SIGNAL dig_4_i            : STD_LOGIC_VECTOR( 3 DOWNTO 0);
   SIGNAL pwm_ref_7          : STD_LOGIC_VECTOR (7 DOWNTO 0) := (OTHERS => '0');
   SIGNAL pwm_ref_6          : STD_LOGIC_VECTOR (7 DOWNTO 0) := (OTHERS => '0');
   SIGNAL pwm_ref_5          : STD_LOGIC_VECTOR (7 DOWNTO 0) := (OTHERS => '0');
@@ -138,10 +177,10 @@ BEGIN
   seg_disp_driver_i : seg_disp_driver
   PORT MAP(
     clk                 => clk,
-    dig_1_i             => "0000",
-    dig_2_i             => "0000",
-    dig_3_i             => "0000",
-    dig_4_i             => "0000",
+    dig_1_i             => dig_1_i,
+    dig_2_i             => dig_2_i,
+    dig_3_i             => dig_3_i,
+    dig_4_i             => dig_4_i,
     dp_i                => "0000",
     dots_i              => "011",
     disp_seg_o          => disp_seg_o,
@@ -158,16 +197,35 @@ BEGIN
     PWM_REF_2           => pwm_ref_2,
     PWM_REF_1           => pwm_ref_1,
     PWM_REF_0           => pwm_ref_0,
-    PWM_OUT             => led_o,
-    CNT_OUT             => OPEN
+    PWM_OUT             => pwm_out,
+    CNT_OUT             => cnt_out
   );
-    pwm_ref_0 <= "00000000";
-    pwm_ref_1 <= "00000001";
-    pwm_ref_2 <= "00000011";
-    pwm_ref_3 <= "00000111";
-    pwm_ref_4 <= "00011111";
-    pwm_ref_5 <= "00111111";
-    pwm_ref_6 <= "01111111";
-    pwm_ref_7 <= "11111111";
+  vio_pwm_i : vio_pwm
+  PORT MAP (
+    clk => clk,
+    probe_in0           => pwm_out,
+    probe_in1           => cnt_out,
+    probe_out0          => pwm_ref_0,
+    probe_out1          => pwm_ref_1,
+    probe_out2          => pwm_ref_2,
+    probe_out3          => pwm_ref_3 ,
+    probe_out4          => pwm_ref_4,
+    probe_out5          => pwm_ref_5,
+    probe_out6          => pwm_ref_6,
+    probe_out7          => pwm_ref_7,
+    probe_out8          => dig_1_i,
+    probe_out9          => dig_2_i,
+    probe_out10         => dig_3_i,
+    probe_out11         => dig_4_i
+  );
+  ila_pwm_i : ila_pwm
+  PORT MAP (
+	clk => clk,
+	probe0 => pwm_out,
+	probe1 => cnt_out,
+	probe2 => btn_i,
+	probe3 => sw_i
+  );
+    led_o <= pwm_out;
 END Structural;
 ----------------------------------------------------------------------------------
