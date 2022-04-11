@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../PC_10.srcs/sources_1/ip/FIR_50k/sim/FIR_50k.vhd" \
+
+nosort

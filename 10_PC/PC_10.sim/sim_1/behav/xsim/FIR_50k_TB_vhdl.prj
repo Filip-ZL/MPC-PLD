@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../PC_10.srcs/sources_1/ip/FIR_50k/sim/FIR_50k.vhd" \
+"../../../../SOURCES/SIM/FIR_50k_SIM.vhd" \
+"../../../../SOURCES/FIR_50k_wrapper.vhd" \
+"../../../../SOURCES/SIM/FIR_50k_TB.vhd" \
+
+# Do not sort compile order
+nosort

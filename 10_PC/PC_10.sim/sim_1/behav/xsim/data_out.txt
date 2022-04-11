@@ -1,0 +1,1997 @@
+Simulation time: 440000 ps, output data (decimal): 0
+
+Simulation time: 600000 ps, output data (decimal): 0
+
+Simulation time: 760000 ps, output data (decimal): -1
+
+Simulation time: 920000 ps, output data (decimal): -1
+
+Simulation time: 1080000 ps, output data (decimal): -1
+
+Simulation time: 1240000 ps, output data (decimal): 0
+
+Simulation time: 1400000 ps, output data (decimal): 0
+
+Simulation time: 1560000 ps, output data (decimal): 1
+
+Simulation time: 1720000 ps, output data (decimal): 1
+
+Simulation time: 1880000 ps, output data (decimal): 2
+
+Simulation time: 2040000 ps, output data (decimal): 3
+
+Simulation time: 2200000 ps, output data (decimal): 4
+
+Simulation time: 2360000 ps, output data (decimal): 5
+
+Simulation time: 2520000 ps, output data (decimal): 7
+
+Simulation time: 2680000 ps, output data (decimal): 8
+
+Simulation time: 2840000 ps, output data (decimal): 10
+
+Simulation time: 3000000 ps, output data (decimal): 12
+
+Simulation time: 3160000 ps, output data (decimal): 14
+
+Simulation time: 3320000 ps, output data (decimal): 17
+
+Simulation time: 3480000 ps, output data (decimal): 20
+
+Simulation time: 3640000 ps, output data (decimal): 23
+
+Simulation time: 3800000 ps, output data (decimal): 26
+
+Simulation time: 3960000 ps, output data (decimal): 29
+
+Simulation time: 4120000 ps, output data (decimal): 33
+
+Simulation time: 4280000 ps, output data (decimal): 37
+
+Simulation time: 4440000 ps, output data (decimal): 41
+
+Simulation time: 4600000 ps, output data (decimal): 45
+
+Simulation time: 4760000 ps, output data (decimal): 49
+
+Simulation time: 4920000 ps, output data (decimal): 53
+
+Simulation time: 5080000 ps, output data (decimal): 57
+
+Simulation time: 5240000 ps, output data (decimal): 63
+
+Simulation time: 5400000 ps, output data (decimal): 67
+
+Simulation time: 5560000 ps, output data (decimal): 72
+
+Simulation time: 5720000 ps, output data (decimal): 76
+
+Simulation time: 5880000 ps, output data (decimal): 81
+
+Simulation time: 6040000 ps, output data (decimal): 85
+
+Simulation time: 6200000 ps, output data (decimal): 90
+
+Simulation time: 6360000 ps, output data (decimal): 94
+
+Simulation time: 6520000 ps, output data (decimal): 98
+
+Simulation time: 6680000 ps, output data (decimal): 102
+
+Simulation time: 6840000 ps, output data (decimal): 106
+
+Simulation time: 7000000 ps, output data (decimal): 110
+
+Simulation time: 7160000 ps, output data (decimal): 115
+
+Simulation time: 7320000 ps, output data (decimal): 117
+
+Simulation time: 7480000 ps, output data (decimal): 120
+
+Simulation time: 7640000 ps, output data (decimal): 124
+
+Simulation time: 7800000 ps, output data (decimal): 127
+
+Simulation time: 7960000 ps, output data (decimal): 130
+
+Simulation time: 8120000 ps, output data (decimal): 132
+
+Simulation time: 8280000 ps, output data (decimal): 134
+
+Simulation time: 8440000 ps, output data (decimal): 136
+
+Simulation time: 8600000 ps, output data (decimal): 138
+
+Simulation time: 8760000 ps, output data (decimal): 139
+
+Simulation time: 8920000 ps, output data (decimal): 141
+
+Simulation time: 9080000 ps, output data (decimal): 142
+
+Simulation time: 9240000 ps, output data (decimal): 144
+
+Simulation time: 9400000 ps, output data (decimal): 145
+
+Simulation time: 9560000 ps, output data (decimal): 145
+
+Simulation time: 9720000 ps, output data (decimal): 146
+
+Simulation time: 9880000 ps, output data (decimal): 148
+
+Simulation time: 10040000 ps, output data (decimal): 149
+
+Simulation time: 10200000 ps, output data (decimal): 148
+
+Simulation time: 10360000 ps, output data (decimal): 148
+
+Simulation time: 10520000 ps, output data (decimal): 149
+
+Simulation time: 10680000 ps, output data (decimal): 150
+
+Simulation time: 10840000 ps, output data (decimal): 149
+
+Simulation time: 11000000 ps, output data (decimal): 150
+
+Simulation time: 11160000 ps, output data (decimal): 149
+
+Simulation time: 11320000 ps, output data (decimal): 149
+
+Simulation time: 11480000 ps, output data (decimal): 148
+
+Simulation time: 11640000 ps, output data (decimal): 148
+
+Simulation time: 11800000 ps, output data (decimal): 146
+
+Simulation time: 11960000 ps, output data (decimal): 145
+
+Simulation time: 12120000 ps, output data (decimal): 143
+
+Simulation time: 12280000 ps, output data (decimal): 140
+
+Simulation time: 12440000 ps, output data (decimal): 139
+
+Simulation time: 12600000 ps, output data (decimal): 136
+
+Simulation time: 12760000 ps, output data (decimal): 133
+
+Simulation time: 12920000 ps, output data (decimal): 130
+
+Simulation time: 13080000 ps, output data (decimal): 125
+
+Simulation time: 13240000 ps, output data (decimal): 120
+
+Simulation time: 13400000 ps, output data (decimal): 116
+
+Simulation time: 13560000 ps, output data (decimal): 111
+
+Simulation time: 13720000 ps, output data (decimal): 107
+
+Simulation time: 13880000 ps, output data (decimal): 100
+
+Simulation time: 14040000 ps, output data (decimal): 94
+
+Simulation time: 14200000 ps, output data (decimal): 88
+
+Simulation time: 14360000 ps, output data (decimal): 82
+
+Simulation time: 14520000 ps, output data (decimal): 75
+
+Simulation time: 14680000 ps, output data (decimal): 68
+
+Simulation time: 14840000 ps, output data (decimal): 60
+
+Simulation time: 15000000 ps, output data (decimal): 53
+
+Simulation time: 15160000 ps, output data (decimal): 46
+
+Simulation time: 15320000 ps, output data (decimal): 39
+
+Simulation time: 15480000 ps, output data (decimal): 31
+
+Simulation time: 15640000 ps, output data (decimal): 24
+
+Simulation time: 15800000 ps, output data (decimal): 17
+
+Simulation time: 15960000 ps, output data (decimal): 9
+
+Simulation time: 16120000 ps, output data (decimal): 2
+
+Simulation time: 16280000 ps, output data (decimal): -5
+
+Simulation time: 16440000 ps, output data (decimal): -12
+
+Simulation time: 16600000 ps, output data (decimal): -18
+
+Simulation time: 16760000 ps, output data (decimal): -24
+
+Simulation time: 16920000 ps, output data (decimal): -31
+
+Simulation time: 17080000 ps, output data (decimal): -36
+
+Simulation time: 17240000 ps, output data (decimal): -42
+
+Simulation time: 17400000 ps, output data (decimal): -45
+
+Simulation time: 17560000 ps, output data (decimal): -51
+
+Simulation time: 17720000 ps, output data (decimal): -55
+
+Simulation time: 17880000 ps, output data (decimal): -59
+
+Simulation time: 18040000 ps, output data (decimal): -63
+
+Simulation time: 18200000 ps, output data (decimal): -67
+
+Simulation time: 18360000 ps, output data (decimal): -69
+
+Simulation time: 18520000 ps, output data (decimal): -72
+
+Simulation time: 18680000 ps, output data (decimal): -73
+
+Simulation time: 18840000 ps, output data (decimal): -76
+
+Simulation time: 19000000 ps, output data (decimal): -77
+
+Simulation time: 19160000 ps, output data (decimal): -80
+
+Simulation time: 19320000 ps, output data (decimal): -81
+
+Simulation time: 19480000 ps, output data (decimal): -81
+
+Simulation time: 19640000 ps, output data (decimal): -83
+
+Simulation time: 19800000 ps, output data (decimal): -84
+
+Simulation time: 19960000 ps, output data (decimal): -85
+
+Simulation time: 20120000 ps, output data (decimal): -84
+
+Simulation time: 20280000 ps, output data (decimal): -85
+
+Simulation time: 20440000 ps, output data (decimal): -85
+
+Simulation time: 20600000 ps, output data (decimal): -85
+
+Simulation time: 20760000 ps, output data (decimal): -87
+
+Simulation time: 20920000 ps, output data (decimal): -87
+
+Simulation time: 21080000 ps, output data (decimal): -87
+
+Simulation time: 21240000 ps, output data (decimal): -86
+
+Simulation time: 21400000 ps, output data (decimal): -86
+
+Simulation time: 21560000 ps, output data (decimal): -84
+
+Simulation time: 21720000 ps, output data (decimal): -85
+
+Simulation time: 21880000 ps, output data (decimal): -83
+
+Simulation time: 22040000 ps, output data (decimal): -82
+
+Simulation time: 22200000 ps, output data (decimal): -80
+
+Simulation time: 22360000 ps, output data (decimal): -77
+
+Simulation time: 22520000 ps, output data (decimal): -76
+
+Simulation time: 22680000 ps, output data (decimal): -72
+
+Simulation time: 22840000 ps, output data (decimal): -70
+
+Simulation time: 23000000 ps, output data (decimal): -66
+
+Simulation time: 23160000 ps, output data (decimal): -60
+
+Simulation time: 23320000 ps, output data (decimal): -57
+
+Simulation time: 23480000 ps, output data (decimal): -52
+
+Simulation time: 23640000 ps, output data (decimal): -46
+
+Simulation time: 23800000 ps, output data (decimal): -41
+
+Simulation time: 23960000 ps, output data (decimal): -33
+
+Simulation time: 24120000 ps, output data (decimal): -28
+
+Simulation time: 24280000 ps, output data (decimal): -21
+
+Simulation time: 24440000 ps, output data (decimal): -13
+
+Simulation time: 24600000 ps, output data (decimal): -7
+
+Simulation time: 24760000 ps, output data (decimal): 3
+
+Simulation time: 24920000 ps, output data (decimal): 9
+
+Simulation time: 25080000 ps, output data (decimal): 17
+
+Simulation time: 25240000 ps, output data (decimal): 27
+
+Simulation time: 25400000 ps, output data (decimal): 34
+
+Simulation time: 25560000 ps, output data (decimal): 42
+
+Simulation time: 25720000 ps, output data (decimal): 50
+
+Simulation time: 25880000 ps, output data (decimal): 58
+
+Simulation time: 26040000 ps, output data (decimal): 67
+
+Simulation time: 26200000 ps, output data (decimal): 74
+
+Simulation time: 26360000 ps, output data (decimal): 82
+
+Simulation time: 26520000 ps, output data (decimal): 89
+
+Simulation time: 26680000 ps, output data (decimal): 96
+
+Simulation time: 26840000 ps, output data (decimal): 103
+
+Simulation time: 27000000 ps, output data (decimal): 108
+
+Simulation time: 27160000 ps, output data (decimal): 114
+
+Simulation time: 27320000 ps, output data (decimal): 120
+
+Simulation time: 27480000 ps, output data (decimal): 124
+
+Simulation time: 27640000 ps, output data (decimal): 129
+
+Simulation time: 27800000 ps, output data (decimal): 131
+
+Simulation time: 27960000 ps, output data (decimal): 135
+
+Simulation time: 28120000 ps, output data (decimal): 140
+
+Simulation time: 28280000 ps, output data (decimal): 141
+
+Simulation time: 28440000 ps, output data (decimal): 145
+
+Simulation time: 28600000 ps, output data (decimal): 145
+
+Simulation time: 28760000 ps, output data (decimal): 147
+
+Simulation time: 28920000 ps, output data (decimal): 148
+
+Simulation time: 29080000 ps, output data (decimal): 149
+
+Simulation time: 29240000 ps, output data (decimal): 149
+
+Simulation time: 29400000 ps, output data (decimal): 149
+
+Simulation time: 29560000 ps, output data (decimal): 149
+
+Simulation time: 29720000 ps, output data (decimal): 149
+
+Simulation time: 29880000 ps, output data (decimal): 149
+
+Simulation time: 30040000 ps, output data (decimal): 150
+
+Simulation time: 30200000 ps, output data (decimal): 147
+
+Simulation time: 30360000 ps, output data (decimal): 146
+
+Simulation time: 30520000 ps, output data (decimal): 145
+
+Simulation time: 30680000 ps, output data (decimal): 146
+
+Simulation time: 30840000 ps, output data (decimal): 145
+
+Simulation time: 31000000 ps, output data (decimal): 146
+
+Simulation time: 31160000 ps, output data (decimal): 143
+
+Simulation time: 31320000 ps, output data (decimal): 143
+
+Simulation time: 31480000 ps, output data (decimal): 141
+
+Simulation time: 31640000 ps, output data (decimal): 138
+
+Simulation time: 31800000 ps, output data (decimal): 138
+
+Simulation time: 31960000 ps, output data (decimal): 136
+
+Simulation time: 32120000 ps, output data (decimal): 134
+
+Simulation time: 32280000 ps, output data (decimal): 131
+
+Simulation time: 32440000 ps, output data (decimal): 129
+
+Simulation time: 32600000 ps, output data (decimal): 126
+
+Simulation time: 32760000 ps, output data (decimal): 122
+
+Simulation time: 32920000 ps, output data (decimal): 119
+
+Simulation time: 33080000 ps, output data (decimal): 116
+
+Simulation time: 33240000 ps, output data (decimal): 111
+
+Simulation time: 33400000 ps, output data (decimal): 106
+
+Simulation time: 33560000 ps, output data (decimal): 101
+
+Simulation time: 33720000 ps, output data (decimal): 96
+
+Simulation time: 33880000 ps, output data (decimal): 91
+
+Simulation time: 34040000 ps, output data (decimal): 84
+
+Simulation time: 34200000 ps, output data (decimal): 79
+
+Simulation time: 34360000 ps, output data (decimal): 72
+
+Simulation time: 34520000 ps, output data (decimal): 65
+
+Simulation time: 34680000 ps, output data (decimal): 59
+
+Simulation time: 34840000 ps, output data (decimal): 51
+
+Simulation time: 35000000 ps, output data (decimal): 44
+
+Simulation time: 35160000 ps, output data (decimal): 36
+
+Simulation time: 35320000 ps, output data (decimal): 29
+
+Simulation time: 35480000 ps, output data (decimal): 23
+
+Simulation time: 35640000 ps, output data (decimal): 14
+
+Simulation time: 35800000 ps, output data (decimal): 9
+
+Simulation time: 35960000 ps, output data (decimal): 2
+
+Simulation time: 36120000 ps, output data (decimal): -6
+
+Simulation time: 36280000 ps, output data (decimal): -12
+
+Simulation time: 36440000 ps, output data (decimal): -19
+
+Simulation time: 36600000 ps, output data (decimal): -24
+
+Simulation time: 36760000 ps, output data (decimal): -29
+
+Simulation time: 36920000 ps, output data (decimal): -36
+
+Simulation time: 37080000 ps, output data (decimal): -40
+
+Simulation time: 37240000 ps, output data (decimal): -46
+
+Simulation time: 37400000 ps, output data (decimal): -50
+
+Simulation time: 37560000 ps, output data (decimal): -54
+
+Simulation time: 37720000 ps, output data (decimal): -59
+
+Simulation time: 37880000 ps, output data (decimal): -62
+
+Simulation time: 38040000 ps, output data (decimal): -66
+
+Simulation time: 38200000 ps, output data (decimal): -69
+
+Simulation time: 38360000 ps, output data (decimal): -71
+
+Simulation time: 38520000 ps, output data (decimal): -74
+
+Simulation time: 38680000 ps, output data (decimal): -75
+
+Simulation time: 38840000 ps, output data (decimal): -78
+
+Simulation time: 39000000 ps, output data (decimal): -80
+
+Simulation time: 39160000 ps, output data (decimal): -81
+
+Simulation time: 39320000 ps, output data (decimal): -83
+
+Simulation time: 39480000 ps, output data (decimal): -83
+
+Simulation time: 39640000 ps, output data (decimal): -85
+
+Simulation time: 39800000 ps, output data (decimal): -86
+
+Simulation time: 39960000 ps, output data (decimal): -88
+
+Simulation time: 40120000 ps, output data (decimal): -88
+
+Simulation time: 40280000 ps, output data (decimal): -89
+
+Simulation time: 40440000 ps, output data (decimal): -88
+
+Simulation time: 40600000 ps, output data (decimal): -89
+
+Simulation time: 40760000 ps, output data (decimal): -92
+
+Simulation time: 40920000 ps, output data (decimal): -91
+
+Simulation time: 41080000 ps, output data (decimal): -91
+
+Simulation time: 41240000 ps, output data (decimal): -92
+
+Simulation time: 41400000 ps, output data (decimal): -91
+
+Simulation time: 41560000 ps, output data (decimal): -91
+
+Simulation time: 41720000 ps, output data (decimal): -90
+
+Simulation time: 41880000 ps, output data (decimal): -89
+
+Simulation time: 42040000 ps, output data (decimal): -87
+
+Simulation time: 42200000 ps, output data (decimal): -87
+
+Simulation time: 42360000 ps, output data (decimal): -83
+
+Simulation time: 42520000 ps, output data (decimal): -80
+
+Simulation time: 42680000 ps, output data (decimal): -79
+
+Simulation time: 42840000 ps, output data (decimal): -75
+
+Simulation time: 43000000 ps, output data (decimal): -71
+
+Simulation time: 43160000 ps, output data (decimal): -66
+
+Simulation time: 43320000 ps, output data (decimal): -62
+
+Simulation time: 43480000 ps, output data (decimal): -57
+
+Simulation time: 43640000 ps, output data (decimal): -52
+
+Simulation time: 43800000 ps, output data (decimal): -46
+
+Simulation time: 43960000 ps, output data (decimal): -38
+
+Simulation time: 44120000 ps, output data (decimal): -32
+
+Simulation time: 44280000 ps, output data (decimal): -25
+
+Simulation time: 44440000 ps, output data (decimal): -18
+
+Simulation time: 44600000 ps, output data (decimal): -10
+
+Simulation time: 44760000 ps, output data (decimal): -3
+
+Simulation time: 44920000 ps, output data (decimal): 5
+
+Simulation time: 45080000 ps, output data (decimal): 12
+
+Simulation time: 45240000 ps, output data (decimal): 21
+
+Simulation time: 45400000 ps, output data (decimal): 29
+
+Simulation time: 45560000 ps, output data (decimal): 36
+
+Simulation time: 45720000 ps, output data (decimal): 44
+
+Simulation time: 45880000 ps, output data (decimal): 51
+
+Simulation time: 46040000 ps, output data (decimal): 59
+
+Simulation time: 46200000 ps, output data (decimal): 67
+
+Simulation time: 46360000 ps, output data (decimal): 73
+
+Simulation time: 46520000 ps, output data (decimal): 79
+
+Simulation time: 46680000 ps, output data (decimal): 86
+
+Simulation time: 46840000 ps, output data (decimal): 92
+
+Simulation time: 47000000 ps, output data (decimal): 98
+
+Simulation time: 47160000 ps, output data (decimal): 103
+
+Simulation time: 47320000 ps, output data (decimal): 108
+
+Simulation time: 47480000 ps, output data (decimal): 113
+
+Simulation time: 47640000 ps, output data (decimal): 116
+
+Simulation time: 47800000 ps, output data (decimal): 122
+
+Simulation time: 47960000 ps, output data (decimal): 123
+
+Simulation time: 48120000 ps, output data (decimal): 129
+
+Simulation time: 48280000 ps, output data (decimal): 132
+
+Simulation time: 48440000 ps, output data (decimal): 133
+
+Simulation time: 48600000 ps, output data (decimal): 135
+
+Simulation time: 48760000 ps, output data (decimal): 137
+
+Simulation time: 48920000 ps, output data (decimal): 140
+
+Simulation time: 49080000 ps, output data (decimal): 141
+
+Simulation time: 49240000 ps, output data (decimal): 142
+
+Simulation time: 49400000 ps, output data (decimal): 144
+
+Simulation time: 49560000 ps, output data (decimal): 143
+
+Simulation time: 49720000 ps, output data (decimal): 144
+
+Simulation time: 49880000 ps, output data (decimal): 146
+
+Simulation time: 50040000 ps, output data (decimal): 146
+
+Simulation time: 50200000 ps, output data (decimal): 144
+
+Simulation time: 50360000 ps, output data (decimal): 145
+
+Simulation time: 50520000 ps, output data (decimal): 144
+
+Simulation time: 50680000 ps, output data (decimal): 146
+
+Simulation time: 50840000 ps, output data (decimal): 144
+
+Simulation time: 51000000 ps, output data (decimal): 143
+
+Simulation time: 51160000 ps, output data (decimal): 142
+
+Simulation time: 51320000 ps, output data (decimal): 141
+
+Simulation time: 51480000 ps, output data (decimal): 141
+
+Simulation time: 51640000 ps, output data (decimal): 137
+
+Simulation time: 51800000 ps, output data (decimal): 135
+
+Simulation time: 51960000 ps, output data (decimal): 133
+
+Simulation time: 52120000 ps, output data (decimal): 130
+
+Simulation time: 52280000 ps, output data (decimal): 126
+
+Simulation time: 52440000 ps, output data (decimal): 122
+
+Simulation time: 52600000 ps, output data (decimal): 119
+
+Simulation time: 52760000 ps, output data (decimal): 114
+
+Simulation time: 52920000 ps, output data (decimal): 109
+
+Simulation time: 53080000 ps, output data (decimal): 104
+
+Simulation time: 53240000 ps, output data (decimal): 98
+
+Simulation time: 53400000 ps, output data (decimal): 93
+
+Simulation time: 53560000 ps, output data (decimal): 85
+
+Simulation time: 53720000 ps, output data (decimal): 78
+
+Simulation time: 53880000 ps, output data (decimal): 71
+
+Simulation time: 54040000 ps, output data (decimal): 65
+
+Simulation time: 54200000 ps, output data (decimal): 57
+
+Simulation time: 54360000 ps, output data (decimal): 49
+
+Simulation time: 54520000 ps, output data (decimal): 40
+
+Simulation time: 54680000 ps, output data (decimal): 32
+
+Simulation time: 54840000 ps, output data (decimal): 23
+
+Simulation time: 55000000 ps, output data (decimal): 14
+
+Simulation time: 55160000 ps, output data (decimal): 6
+
+Simulation time: 55320000 ps, output data (decimal): -3
+
+Simulation time: 55480000 ps, output data (decimal): -10
+
+Simulation time: 55640000 ps, output data (decimal): -18
+
+Simulation time: 55800000 ps, output data (decimal): -27
+
+Simulation time: 55960000 ps, output data (decimal): -36
+
+Simulation time: 56120000 ps, output data (decimal): -42
+
+Simulation time: 56280000 ps, output data (decimal): -50
+
+Simulation time: 56440000 ps, output data (decimal): -57
+
+Simulation time: 56600000 ps, output data (decimal): -64
+
+Simulation time: 56760000 ps, output data (decimal): -70
+
+Simulation time: 56920000 ps, output data (decimal): -75
+
+Simulation time: 57080000 ps, output data (decimal): -80
+
+Simulation time: 57240000 ps, output data (decimal): -85
+
+Simulation time: 57400000 ps, output data (decimal): -91
+
+Simulation time: 57560000 ps, output data (decimal): -93
+
+Simulation time: 57720000 ps, output data (decimal): -96
+
+Simulation time: 57880000 ps, output data (decimal): -99
+
+Simulation time: 58040000 ps, output data (decimal): -104
+
+Simulation time: 58200000 ps, output data (decimal): -107
+
+Simulation time: 58360000 ps, output data (decimal): -107
+
+Simulation time: 58520000 ps, output data (decimal): -109
+
+Simulation time: 58680000 ps, output data (decimal): -111
+
+Simulation time: 58840000 ps, output data (decimal): -111
+
+Simulation time: 59000000 ps, output data (decimal): -112
+
+Simulation time: 59160000 ps, output data (decimal): -114
+
+Simulation time: 59320000 ps, output data (decimal): -113
+
+Simulation time: 59480000 ps, output data (decimal): -113
+
+Simulation time: 59640000 ps, output data (decimal): -113
+
+Simulation time: 59800000 ps, output data (decimal): -112
+
+Simulation time: 59960000 ps, output data (decimal): -114
+
+Simulation time: 60120000 ps, output data (decimal): -110
+
+Simulation time: 60280000 ps, output data (decimal): -110
+
+Simulation time: 60440000 ps, output data (decimal): -110
+
+Simulation time: 60600000 ps, output data (decimal): -109
+
+Simulation time: 60760000 ps, output data (decimal): -110
+
+Simulation time: 60920000 ps, output data (decimal): -108
+
+Simulation time: 61080000 ps, output data (decimal): -107
+
+Simulation time: 61240000 ps, output data (decimal): -106
+
+Simulation time: 61400000 ps, output data (decimal): -105
+
+Simulation time: 61560000 ps, output data (decimal): -103
+
+Simulation time: 61720000 ps, output data (decimal): -102
+
+Simulation time: 61880000 ps, output data (decimal): -100
+
+Simulation time: 62040000 ps, output data (decimal): -98
+
+Simulation time: 62200000 ps, output data (decimal): -96
+
+Simulation time: 62360000 ps, output data (decimal): -93
+
+Simulation time: 62520000 ps, output data (decimal): -90
+
+Simulation time: 62680000 ps, output data (decimal): -86
+
+Simulation time: 62840000 ps, output data (decimal): -83
+
+Simulation time: 63000000 ps, output data (decimal): -79
+
+Simulation time: 63160000 ps, output data (decimal): -74
+
+Simulation time: 63320000 ps, output data (decimal): -69
+
+Simulation time: 63480000 ps, output data (decimal): -63
+
+Simulation time: 63640000 ps, output data (decimal): -57
+
+Simulation time: 63800000 ps, output data (decimal): -52
+
+Simulation time: 63960000 ps, output data (decimal): -46
+
+Simulation time: 64120000 ps, output data (decimal): -38
+
+Simulation time: 64280000 ps, output data (decimal): -31
+
+Simulation time: 64440000 ps, output data (decimal): -23
+
+Simulation time: 64600000 ps, output data (decimal): -15
+
+Simulation time: 64760000 ps, output data (decimal): -6
+
+Simulation time: 64920000 ps, output data (decimal): 2
+
+Simulation time: 65080000 ps, output data (decimal): 11
+
+Simulation time: 65240000 ps, output data (decimal): 19
+
+Simulation time: 65400000 ps, output data (decimal): 28
+
+Simulation time: 65560000 ps, output data (decimal): 38
+
+Simulation time: 65720000 ps, output data (decimal): 46
+
+Simulation time: 65880000 ps, output data (decimal): 54
+
+Simulation time: 66040000 ps, output data (decimal): 64
+
+Simulation time: 66200000 ps, output data (decimal): 71
+
+Simulation time: 66360000 ps, output data (decimal): 80
+
+Simulation time: 66520000 ps, output data (decimal): 89
+
+Simulation time: 66680000 ps, output data (decimal): 95
+
+Simulation time: 66840000 ps, output data (decimal): 103
+
+Simulation time: 67000000 ps, output data (decimal): 109
+
+Simulation time: 67160000 ps, output data (decimal): 115
+
+Simulation time: 67320000 ps, output data (decimal): 122
+
+Simulation time: 67480000 ps, output data (decimal): 127
+
+Simulation time: 67640000 ps, output data (decimal): 132
+
+Simulation time: 67800000 ps, output data (decimal): 135
+
+Simulation time: 67960000 ps, output data (decimal): 140
+
+Simulation time: 68120000 ps, output data (decimal): 144
+
+Simulation time: 68280000 ps, output data (decimal): 146
+
+Simulation time: 68440000 ps, output data (decimal): 150
+
+Simulation time: 68600000 ps, output data (decimal): 151
+
+Simulation time: 68760000 ps, output data (decimal): 153
+
+Simulation time: 68920000 ps, output data (decimal): 156
+
+Simulation time: 69080000 ps, output data (decimal): 155
+
+Simulation time: 69240000 ps, output data (decimal): 157
+
+Simulation time: 69400000 ps, output data (decimal): 156
+
+Simulation time: 69560000 ps, output data (decimal): 157
+
+Simulation time: 69720000 ps, output data (decimal): 157
+
+Simulation time: 69880000 ps, output data (decimal): 157
+
+Simulation time: 70040000 ps, output data (decimal): 158
+
+Simulation time: 70200000 ps, output data (decimal): 156
+
+Simulation time: 70360000 ps, output data (decimal): 156
+
+Simulation time: 70520000 ps, output data (decimal): 155
+
+Simulation time: 70680000 ps, output data (decimal): 156
+
+Simulation time: 70840000 ps, output data (decimal): 157
+
+Simulation time: 71000000 ps, output data (decimal): 155
+
+Simulation time: 71160000 ps, output data (decimal): 153
+
+Simulation time: 71320000 ps, output data (decimal): 154
+
+Simulation time: 71480000 ps, output data (decimal): 152
+
+Simulation time: 71640000 ps, output data (decimal): 150
+
+Simulation time: 71800000 ps, output data (decimal): 150
+
+Simulation time: 71960000 ps, output data (decimal): 147
+
+Simulation time: 72120000 ps, output data (decimal): 146
+
+Simulation time: 72280000 ps, output data (decimal): 143
+
+Simulation time: 72440000 ps, output data (decimal): 141
+
+Simulation time: 72600000 ps, output data (decimal): 138
+
+Simulation time: 72760000 ps, output data (decimal): 133
+
+Simulation time: 72920000 ps, output data (decimal): 131
+
+Simulation time: 73080000 ps, output data (decimal): 125
+
+Simulation time: 73240000 ps, output data (decimal): 121
+
+Simulation time: 73400000 ps, output data (decimal): 116
+
+Simulation time: 73560000 ps, output data (decimal): 110
+
+Simulation time: 73720000 ps, output data (decimal): 104
+
+Simulation time: 73880000 ps, output data (decimal): 97
+
+Simulation time: 74040000 ps, output data (decimal): 91
+
+Simulation time: 74200000 ps, output data (decimal): 85
+
+Simulation time: 74360000 ps, output data (decimal): 76
+
+Simulation time: 74520000 ps, output data (decimal): 71
+
+Simulation time: 74680000 ps, output data (decimal): 61
+
+Simulation time: 74840000 ps, output data (decimal): 52
+
+Simulation time: 75000000 ps, output data (decimal): 44
+
+Simulation time: 75160000 ps, output data (decimal): 35
+
+Simulation time: 75320000 ps, output data (decimal): 27
+
+Simulation time: 75480000 ps, output data (decimal): 18
+
+Simulation time: 75640000 ps, output data (decimal): 8
+
+Simulation time: 75800000 ps, output data (decimal): 0
+
+Simulation time: 75960000 ps, output data (decimal): -8
+
+Simulation time: 76120000 ps, output data (decimal): -16
+
+Simulation time: 76280000 ps, output data (decimal): -24
+
+Simulation time: 76440000 ps, output data (decimal): -33
+
+Simulation time: 76600000 ps, output data (decimal): -41
+
+Simulation time: 76760000 ps, output data (decimal): -47
+
+Simulation time: 76920000 ps, output data (decimal): -53
+
+Simulation time: 77080000 ps, output data (decimal): -59
+
+Simulation time: 77240000 ps, output data (decimal): -66
+
+Simulation time: 77400000 ps, output data (decimal): -70
+
+Simulation time: 77560000 ps, output data (decimal): -74
+
+Simulation time: 77720000 ps, output data (decimal): -80
+
+Simulation time: 77880000 ps, output data (decimal): -83
+
+Simulation time: 78040000 ps, output data (decimal): -88
+
+Simulation time: 78200000 ps, output data (decimal): -90
+
+Simulation time: 78360000 ps, output data (decimal): -91
+
+Simulation time: 78520000 ps, output data (decimal): -94
+
+Simulation time: 78680000 ps, output data (decimal): -95
+
+Simulation time: 78840000 ps, output data (decimal): -97
+
+Simulation time: 79000000 ps, output data (decimal): -98
+
+Simulation time: 79160000 ps, output data (decimal): -98
+
+Simulation time: 79320000 ps, output data (decimal): -99
+
+Simulation time: 79480000 ps, output data (decimal): -99
+
+Simulation time: 79640000 ps, output data (decimal): -99
+
+Simulation time: 79800000 ps, output data (decimal): -98
+
+Simulation time: 79960000 ps, output data (decimal): -99
+
+Simulation time: 80120000 ps, output data (decimal): -97
+
+Simulation time: 80280000 ps, output data (decimal): -95
+
+Simulation time: 80440000 ps, output data (decimal): -95
+
+Simulation time: 80600000 ps, output data (decimal): -95
+
+Simulation time: 80760000 ps, output data (decimal): -95
+
+Simulation time: 80920000 ps, output data (decimal): -94
+
+Simulation time: 81080000 ps, output data (decimal): -93
+
+Simulation time: 81240000 ps, output data (decimal): -92
+
+Simulation time: 81400000 ps, output data (decimal): -92
+
+Simulation time: 81560000 ps, output data (decimal): -89
+
+Simulation time: 81720000 ps, output data (decimal): -89
+
+Simulation time: 81880000 ps, output data (decimal): -86
+
+Simulation time: 82040000 ps, output data (decimal): -85
+
+Simulation time: 82200000 ps, output data (decimal): -83
+
+Simulation time: 82360000 ps, output data (decimal): -79
+
+Simulation time: 82520000 ps, output data (decimal): -77
+
+Simulation time: 82680000 ps, output data (decimal): -73
+
+Simulation time: 82840000 ps, output data (decimal): -69
+
+Simulation time: 83000000 ps, output data (decimal): -66
+
+Simulation time: 83160000 ps, output data (decimal): -61
+
+Simulation time: 83320000 ps, output data (decimal): -56
+
+Simulation time: 83480000 ps, output data (decimal): -51
+
+Simulation time: 83640000 ps, output data (decimal): -46
+
+Simulation time: 83800000 ps, output data (decimal): -41
+
+Simulation time: 83960000 ps, output data (decimal): -33
+
+Simulation time: 84120000 ps, output data (decimal): -25
+
+Simulation time: 84280000 ps, output data (decimal): -20
+
+Simulation time: 84440000 ps, output data (decimal): -12
+
+Simulation time: 84600000 ps, output data (decimal): -5
+
+Simulation time: 84760000 ps, output data (decimal): 3
+
+Simulation time: 84920000 ps, output data (decimal): 10
+
+Simulation time: 85080000 ps, output data (decimal): 18
+
+Simulation time: 85240000 ps, output data (decimal): 27
+
+Simulation time: 85400000 ps, output data (decimal): 34
+
+Simulation time: 85560000 ps, output data (decimal): 43
+
+Simulation time: 85720000 ps, output data (decimal): 50
+
+Simulation time: 85880000 ps, output data (decimal): 57
+
+Simulation time: 86040000 ps, output data (decimal): 64
+
+Simulation time: 86200000 ps, output data (decimal): 72
+
+Simulation time: 86360000 ps, output data (decimal): 79
+
+Simulation time: 86520000 ps, output data (decimal): 86
+
+Simulation time: 86680000 ps, output data (decimal): 90
+
+Simulation time: 86840000 ps, output data (decimal): 96
+
+Simulation time: 87000000 ps, output data (decimal): 102
+
+Simulation time: 87160000 ps, output data (decimal): 107
+
+Simulation time: 87320000 ps, output data (decimal): 112
+
+Simulation time: 87480000 ps, output data (decimal): 114
+
+Simulation time: 87640000 ps, output data (decimal): 118
+
+Simulation time: 87800000 ps, output data (decimal): 122
+
+Simulation time: 87960000 ps, output data (decimal): 123
+
+Simulation time: 88120000 ps, output data (decimal): 126
+
+Simulation time: 88280000 ps, output data (decimal): 127
+
+Simulation time: 88440000 ps, output data (decimal): 129
+
+Simulation time: 88600000 ps, output data (decimal): 131
+
+Simulation time: 88760000 ps, output data (decimal): 130
+
+Simulation time: 88920000 ps, output data (decimal): 132
+
+Simulation time: 89080000 ps, output data (decimal): 131
+
+Simulation time: 89240000 ps, output data (decimal): 132
+
+Simulation time: 89400000 ps, output data (decimal): 131
+
+Simulation time: 89560000 ps, output data (decimal): 131
+
+Simulation time: 89720000 ps, output data (decimal): 131
+
+Simulation time: 89880000 ps, output data (decimal): 131
+
+Simulation time: 90040000 ps, output data (decimal): 131
+
+Simulation time: 90200000 ps, output data (decimal): 128
+
+Simulation time: 90360000 ps, output data (decimal): 127
+
+Simulation time: 90520000 ps, output data (decimal): 127
+
+Simulation time: 90680000 ps, output data (decimal): 128
+
+Simulation time: 90840000 ps, output data (decimal): 127
+
+Simulation time: 91000000 ps, output data (decimal): 127
+
+Simulation time: 91160000 ps, output data (decimal): 125
+
+Simulation time: 91320000 ps, output data (decimal): 125
+
+Simulation time: 91480000 ps, output data (decimal): 123
+
+Simulation time: 91640000 ps, output data (decimal): 122
+
+Simulation time: 91800000 ps, output data (decimal): 121
+
+Simulation time: 91960000 ps, output data (decimal): 119
+
+Simulation time: 92120000 ps, output data (decimal): 118
+
+Simulation time: 92280000 ps, output data (decimal): 117
+
+Simulation time: 92440000 ps, output data (decimal): 112
+
+Simulation time: 92600000 ps, output data (decimal): 110
+
+Simulation time: 92760000 ps, output data (decimal): 107
+
+Simulation time: 92920000 ps, output data (decimal): 103
+
+Simulation time: 93080000 ps, output data (decimal): 99
+
+Simulation time: 93240000 ps, output data (decimal): 94
+
+Simulation time: 93400000 ps, output data (decimal): 89
+
+Simulation time: 93560000 ps, output data (decimal): 85
+
+Simulation time: 93720000 ps, output data (decimal): 79
+
+Simulation time: 93880000 ps, output data (decimal): 74
+
+Simulation time: 94040000 ps, output data (decimal): 67
+
+Simulation time: 94200000 ps, output data (decimal): 61
+
+Simulation time: 94360000 ps, output data (decimal): 54
+
+Simulation time: 94520000 ps, output data (decimal): 47
+
+Simulation time: 94680000 ps, output data (decimal): 40
+
+Simulation time: 94840000 ps, output data (decimal): 32
+
+Simulation time: 95000000 ps, output data (decimal): 25
+
+Simulation time: 95160000 ps, output data (decimal): 17
+
+Simulation time: 95320000 ps, output data (decimal): 8
+
+Simulation time: 95480000 ps, output data (decimal): 0
+
+Simulation time: 95640000 ps, output data (decimal): -5
+
+Simulation time: 95800000 ps, output data (decimal): -15
+
+Simulation time: 95960000 ps, output data (decimal): -20
+
+Simulation time: 96120000 ps, output data (decimal): -30
+
+Simulation time: 96280000 ps, output data (decimal): -36
+
+Simulation time: 96440000 ps, output data (decimal): -44
+
+Simulation time: 96600000 ps, output data (decimal): -50
+
+Simulation time: 96760000 ps, output data (decimal): -55
+
+Simulation time: 96920000 ps, output data (decimal): -63
+
+Simulation time: 97080000 ps, output data (decimal): -68
+
+Simulation time: 97240000 ps, output data (decimal): -72
+
+Simulation time: 97400000 ps, output data (decimal): -78
+
+Simulation time: 97560000 ps, output data (decimal): -83
+
+Simulation time: 97720000 ps, output data (decimal): -88
+
+Simulation time: 97880000 ps, output data (decimal): -92
+
+Simulation time: 98040000 ps, output data (decimal): -95
+
+Simulation time: 98200000 ps, output data (decimal): -98
+
+Simulation time: 98360000 ps, output data (decimal): -101
+
+Simulation time: 98520000 ps, output data (decimal): -105
+
+Simulation time: 98680000 ps, output data (decimal): -106
+
+Simulation time: 98840000 ps, output data (decimal): -110
+
+Simulation time: 99000000 ps, output data (decimal): -111
+
+Simulation time: 99160000 ps, output data (decimal): -112
+
+Simulation time: 99320000 ps, output data (decimal): -113
+
+Simulation time: 99480000 ps, output data (decimal): -115
+
+Simulation time: 99640000 ps, output data (decimal): -118
+
+Simulation time: 99800000 ps, output data (decimal): -119
+
+Simulation time: 99960000 ps, output data (decimal): -120
+
+Simulation time: 100120000 ps, output data (decimal): -118
+
+Simulation time: 100280000 ps, output data (decimal): -118
+
+Simulation time: 100440000 ps, output data (decimal): -119
+
+Simulation time: 100600000 ps, output data (decimal): -120
+
+Simulation time: 100760000 ps, output data (decimal): -121
+
+Simulation time: 100920000 ps, output data (decimal): -122
+
+Simulation time: 101080000 ps, output data (decimal): -122
+
+Simulation time: 101240000 ps, output data (decimal): -120
+
+Simulation time: 101400000 ps, output data (decimal): -120
+
+Simulation time: 101560000 ps, output data (decimal): -120
+
+Simulation time: 101720000 ps, output data (decimal): -119
+
+Simulation time: 101880000 ps, output data (decimal): -119
+
+Simulation time: 102040000 ps, output data (decimal): -116
+
+Simulation time: 102200000 ps, output data (decimal): -115
+
+Simulation time: 102360000 ps, output data (decimal): -113
+
+Simulation time: 102520000 ps, output data (decimal): -111
+
+Simulation time: 102680000 ps, output data (decimal): -108
+
+Simulation time: 102840000 ps, output data (decimal): -105
+
+Simulation time: 103000000 ps, output data (decimal): -101
+
+Simulation time: 103160000 ps, output data (decimal): -97
+
+Simulation time: 103320000 ps, output data (decimal): -93
+
+Simulation time: 103480000 ps, output data (decimal): -87
+
+Simulation time: 103640000 ps, output data (decimal): -82
+
+Simulation time: 103800000 ps, output data (decimal): -77
+
+Simulation time: 103960000 ps, output data (decimal): -70
+
+Simulation time: 104120000 ps, output data (decimal): -66
+
+Simulation time: 104280000 ps, output data (decimal): -59
+
+Simulation time: 104440000 ps, output data (decimal): -52
+
+Simulation time: 104600000 ps, output data (decimal): -44
+
+Simulation time: 104760000 ps, output data (decimal): -38
+
+Simulation time: 104920000 ps, output data (decimal): -32
+
+Simulation time: 105080000 ps, output data (decimal): -23
+
+Simulation time: 105240000 ps, output data (decimal): -16
+
+Simulation time: 105400000 ps, output data (decimal): -7
+
+Simulation time: 105560000 ps, output data (decimal): 0
+
+Simulation time: 105720000 ps, output data (decimal): 7
+
+Simulation time: 105880000 ps, output data (decimal): 16
+
+Simulation time: 106040000 ps, output data (decimal): 22
+
+Simulation time: 106200000 ps, output data (decimal): 30
+
+Simulation time: 106360000 ps, output data (decimal): 37
+
+Simulation time: 106520000 ps, output data (decimal): 45
+
+Simulation time: 106680000 ps, output data (decimal): 52
+
+Simulation time: 106840000 ps, output data (decimal): 59
+
+Simulation time: 107000000 ps, output data (decimal): 66
+
+Simulation time: 107160000 ps, output data (decimal): 71
+
+Simulation time: 107320000 ps, output data (decimal): 76
+
+Simulation time: 107480000 ps, output data (decimal): 82
+
+Simulation time: 107640000 ps, output data (decimal): 87
+
+Simulation time: 107800000 ps, output data (decimal): 91
+
+Simulation time: 107960000 ps, output data (decimal): 95
+
+Simulation time: 108120000 ps, output data (decimal): 100
+
+Simulation time: 108280000 ps, output data (decimal): 103
+
+Simulation time: 108440000 ps, output data (decimal): 106
+
+Simulation time: 108600000 ps, output data (decimal): 110
+
+Simulation time: 108760000 ps, output data (decimal): 114
+
+Simulation time: 108920000 ps, output data (decimal): 115
+
+Simulation time: 109080000 ps, output data (decimal): 117
+
+Simulation time: 109240000 ps, output data (decimal): 118
+
+Simulation time: 109400000 ps, output data (decimal): 120
+
+Simulation time: 109560000 ps, output data (decimal): 124
+
+Simulation time: 109720000 ps, output data (decimal): 124
+
+Simulation time: 109880000 ps, output data (decimal): 125
+
+Simulation time: 110040000 ps, output data (decimal): 126
+
+Simulation time: 110200000 ps, output data (decimal): 126
+
+Simulation time: 110360000 ps, output data (decimal): 126
+
+Simulation time: 110520000 ps, output data (decimal): 125
+
+Simulation time: 110680000 ps, output data (decimal): 129
+
+Simulation time: 110840000 ps, output data (decimal): 129
+
+Simulation time: 111000000 ps, output data (decimal): 129
+
+Simulation time: 111160000 ps, output data (decimal): 127
+
+Simulation time: 111320000 ps, output data (decimal): 127
+
+Simulation time: 111480000 ps, output data (decimal): 128
+
+Simulation time: 111640000 ps, output data (decimal): 126
+
+Simulation time: 111800000 ps, output data (decimal): 124
+
+Simulation time: 111960000 ps, output data (decimal): 123
+
+Simulation time: 112120000 ps, output data (decimal): 120
+
+Simulation time: 112280000 ps, output data (decimal): 119
+
+Simulation time: 112440000 ps, output data (decimal): 116
+
+Simulation time: 112600000 ps, output data (decimal): 114
+
+Simulation time: 112760000 ps, output data (decimal): 111
+
+Simulation time: 112920000 ps, output data (decimal): 107
+
+Simulation time: 113080000 ps, output data (decimal): 105
+
+Simulation time: 113240000 ps, output data (decimal): 98
+
+Simulation time: 113400000 ps, output data (decimal): 95
+
+Simulation time: 113560000 ps, output data (decimal): 90
+
+Simulation time: 113720000 ps, output data (decimal): 84
+
+Simulation time: 113880000 ps, output data (decimal): 77
+
+Simulation time: 114040000 ps, output data (decimal): 73
+
+Simulation time: 114200000 ps, output data (decimal): 66
+
+Simulation time: 114360000 ps, output data (decimal): 59
+
+Simulation time: 114520000 ps, output data (decimal): 51
+
+Simulation time: 114680000 ps, output data (decimal): 45
+
+Simulation time: 114840000 ps, output data (decimal): 37
+
+Simulation time: 115000000 ps, output data (decimal): 29
+
+Simulation time: 115160000 ps, output data (decimal): 22
+
+Simulation time: 115320000 ps, output data (decimal): 15
+
+Simulation time: 115480000 ps, output data (decimal): 5
+
+Simulation time: 115640000 ps, output data (decimal): -2
+
+Simulation time: 115800000 ps, output data (decimal): -10
+
+Simulation time: 115960000 ps, output data (decimal): -18
+
+Simulation time: 116120000 ps, output data (decimal): -26
+
+Simulation time: 116280000 ps, output data (decimal): -33
+
+Simulation time: 116440000 ps, output data (decimal): -40
+
+Simulation time: 116600000 ps, output data (decimal): -47
+
+Simulation time: 116760000 ps, output data (decimal): -54
+
+Simulation time: 116920000 ps, output data (decimal): -60
+
+Simulation time: 117080000 ps, output data (decimal): -67
+
+Simulation time: 117240000 ps, output data (decimal): -73
+
+Simulation time: 117400000 ps, output data (decimal): -77
+
+Simulation time: 117560000 ps, output data (decimal): -83
+
+Simulation time: 117720000 ps, output data (decimal): -88
+
+Simulation time: 117880000 ps, output data (decimal): -93
+
+Simulation time: 118040000 ps, output data (decimal): -98
+
+Simulation time: 118200000 ps, output data (decimal): -99
+
+Simulation time: 118360000 ps, output data (decimal): -103
+
+Simulation time: 118520000 ps, output data (decimal): -105
+
+Simulation time: 118680000 ps, output data (decimal): -110
+
+Simulation time: 118840000 ps, output data (decimal): -111
+
+Simulation time: 119000000 ps, output data (decimal): -112
+
+Simulation time: 119160000 ps, output data (decimal): -115
+
+Simulation time: 119320000 ps, output data (decimal): -116
+
+Simulation time: 119480000 ps, output data (decimal): -116
+
+Simulation time: 119640000 ps, output data (decimal): -117
+
+Simulation time: 119800000 ps, output data (decimal): -118
+
+Simulation time: 119960000 ps, output data (decimal): -121
+
+Simulation time: 120120000 ps, output data (decimal): -119
+
+Simulation time: 120280000 ps, output data (decimal): -119
+
+Simulation time: 120440000 ps, output data (decimal): -119
+
+Simulation time: 120600000 ps, output data (decimal): -119
+
+Simulation time: 120760000 ps, output data (decimal): -121
+
+Simulation time: 120920000 ps, output data (decimal): -119
+
+Simulation time: 121080000 ps, output data (decimal): -118
+
+Simulation time: 121240000 ps, output data (decimal): -118
+
+Simulation time: 121400000 ps, output data (decimal): -116
+
+Simulation time: 121560000 ps, output data (decimal): -116
+
+Simulation time: 121720000 ps, output data (decimal): -115
+
+Simulation time: 121880000 ps, output data (decimal): -112
+
+Simulation time: 122040000 ps, output data (decimal): -109
+
+Simulation time: 122200000 ps, output data (decimal): -106
+
+Simulation time: 122360000 ps, output data (decimal): -105
+
+Simulation time: 122520000 ps, output data (decimal): -101
+
+Simulation time: 122680000 ps, output data (decimal): -98
+
+Simulation time: 122840000 ps, output data (decimal): -94
+
+Simulation time: 123000000 ps, output data (decimal): -89
+
+Simulation time: 123160000 ps, output data (decimal): -83
+
+Simulation time: 123320000 ps, output data (decimal): -79
+
+Simulation time: 123480000 ps, output data (decimal): -73
+
+Simulation time: 123640000 ps, output data (decimal): -68
+
+Simulation time: 123800000 ps, output data (decimal): -61
+
+Simulation time: 123960000 ps, output data (decimal): -55
+
+Simulation time: 124120000 ps, output data (decimal): -46
+
+Simulation time: 124280000 ps, output data (decimal): -39
+
+Simulation time: 124440000 ps, output data (decimal): -32
+
+Simulation time: 124600000 ps, output data (decimal): -24
+
+Simulation time: 124760000 ps, output data (decimal): -15
+
+Simulation time: 124920000 ps, output data (decimal): -7
+
+Simulation time: 125080000 ps, output data (decimal): 1
+
+Simulation time: 125240000 ps, output data (decimal): 10
+
+Simulation time: 125400000 ps, output data (decimal): 19
+
+Simulation time: 125560000 ps, output data (decimal): 27
+
+Simulation time: 125720000 ps, output data (decimal): 37
+
+Simulation time: 125880000 ps, output data (decimal): 44
+
+Simulation time: 126040000 ps, output data (decimal): 53
+
+Simulation time: 126200000 ps, output data (decimal): 61
+
+Simulation time: 126360000 ps, output data (decimal): 70
+
+Simulation time: 126520000 ps, output data (decimal): 77
+
+Simulation time: 126680000 ps, output data (decimal): 83
+
+Simulation time: 126840000 ps, output data (decimal): 92
+
+Simulation time: 127000000 ps, output data (decimal): 98
+
+Simulation time: 127160000 ps, output data (decimal): 104
+
+Simulation time: 127320000 ps, output data (decimal): 109
+
+Simulation time: 127480000 ps, output data (decimal): 114
+
+Simulation time: 127640000 ps, output data (decimal): 120
+
+Simulation time: 127800000 ps, output data (decimal): 125
+
+Simulation time: 127960000 ps, output data (decimal): 129
+
+Simulation time: 128120000 ps, output data (decimal): 132
+
+Simulation time: 128280000 ps, output data (decimal): 135
+
+Simulation time: 128440000 ps, output data (decimal): 138
+
+Simulation time: 128600000 ps, output data (decimal): 140
+
+Simulation time: 128760000 ps, output data (decimal): 142
+
+Simulation time: 128920000 ps, output data (decimal): 144
+
+Simulation time: 129080000 ps, output data (decimal): 144
+
+Simulation time: 129240000 ps, output data (decimal): 146
+
+Simulation time: 129400000 ps, output data (decimal): 147
+
+Simulation time: 129560000 ps, output data (decimal): 146
+
+Simulation time: 129720000 ps, output data (decimal): 147
+
+Simulation time: 129880000 ps, output data (decimal): 146
+
+Simulation time: 130040000 ps, output data (decimal): 147
+
+Simulation time: 130200000 ps, output data (decimal): 144
+
+Simulation time: 130360000 ps, output data (decimal): 144
+
+Simulation time: 130520000 ps, output data (decimal): 143
+
+Simulation time: 130680000 ps, output data (decimal): 144
+
+Simulation time: 130840000 ps, output data (decimal): 143
+
+Simulation time: 131000000 ps, output data (decimal): 141
+
+Simulation time: 131160000 ps, output data (decimal): 139
+
+Simulation time: 131320000 ps, output data (decimal): 138
+
+Simulation time: 131480000 ps, output data (decimal): 137
+
+Simulation time: 131640000 ps, output data (decimal): 135
+
+Simulation time: 131800000 ps, output data (decimal): 132
+
+Simulation time: 131960000 ps, output data (decimal): 129
+
+Simulation time: 132120000 ps, output data (decimal): 126
+
+Simulation time: 132280000 ps, output data (decimal): 124
+
+Simulation time: 132440000 ps, output data (decimal): 120
+
+Simulation time: 132600000 ps, output data (decimal): 116
+
+Simulation time: 132760000 ps, output data (decimal): 112
+
+Simulation time: 132920000 ps, output data (decimal): 107
+
+Simulation time: 133080000 ps, output data (decimal): 104
+
+Simulation time: 133240000 ps, output data (decimal): 98
+
+Simulation time: 133400000 ps, output data (decimal): 92
+
+Simulation time: 133560000 ps, output data (decimal): 88
+
+Simulation time: 133720000 ps, output data (decimal): 80
+
+Simulation time: 133880000 ps, output data (decimal): 75
+
+Simulation time: 134040000 ps, output data (decimal): 67
+
+Simulation time: 134200000 ps, output data (decimal): 61
+
+Simulation time: 134360000 ps, output data (decimal): 55
+
+Simulation time: 134520000 ps, output data (decimal): 47
+
+Simulation time: 134680000 ps, output data (decimal): 40
+
+Simulation time: 134840000 ps, output data (decimal): 30
+
+Simulation time: 135000000 ps, output data (decimal): 23
+
+Simulation time: 135160000 ps, output data (decimal): 16
+
+Simulation time: 135320000 ps, output data (decimal): 9
+
+Simulation time: 135480000 ps, output data (decimal): -1
+
+Simulation time: 135640000 ps, output data (decimal): -9
+
+Simulation time: 135800000 ps, output data (decimal): -16
+
+Simulation time: 135960000 ps, output data (decimal): -24
+
+Simulation time: 136120000 ps, output data (decimal): -31
+
+Simulation time: 136280000 ps, output data (decimal): -38
+
+Simulation time: 136440000 ps, output data (decimal): -45
+
+Simulation time: 136600000 ps, output data (decimal): -52
+
+Simulation time: 136760000 ps, output data (decimal): -59
+
+Simulation time: 136920000 ps, output data (decimal): -64
+
+Simulation time: 137080000 ps, output data (decimal): -69
+
+Simulation time: 137240000 ps, output data (decimal): -74
+
+Simulation time: 137400000 ps, output data (decimal): -81
+
+Simulation time: 137560000 ps, output data (decimal): -85
+
+Simulation time: 137720000 ps, output data (decimal): -90
+
+Simulation time: 137880000 ps, output data (decimal): -92
+
+Simulation time: 138040000 ps, output data (decimal): -97
+
+Simulation time: 138200000 ps, output data (decimal): -100
+
+Simulation time: 138360000 ps, output data (decimal): -102
+
+Simulation time: 138520000 ps, output data (decimal): -106
+
+Simulation time: 138680000 ps, output data (decimal): -108
+
+Simulation time: 138840000 ps, output data (decimal): -108
+
+Simulation time: 139000000 ps, output data (decimal): -110
+
+Simulation time: 139160000 ps, output data (decimal): -111
+
+Simulation time: 139320000 ps, output data (decimal): -112
+
+Simulation time: 139480000 ps, output data (decimal): -113
+
+Simulation time: 139640000 ps, output data (decimal): -114
+
+Simulation time: 139800000 ps, output data (decimal): -114
+
+Simulation time: 139960000 ps, output data (decimal): -114
+
+Simulation time: 140120000 ps, output data (decimal): -113
+
+Simulation time: 140280000 ps, output data (decimal): -113
+
+Simulation time: 140440000 ps, output data (decimal): -113
+
+Simulation time: 140600000 ps, output data (decimal): -112
+
+Simulation time: 140760000 ps, output data (decimal): -114
+
+Simulation time: 140920000 ps, output data (decimal): -111
+
+Simulation time: 141080000 ps, output data (decimal): -111
+
+Simulation time: 141240000 ps, output data (decimal): -111
+
+Simulation time: 141400000 ps, output data (decimal): -110
+
+Simulation time: 141560000 ps, output data (decimal): -109
+
+Simulation time: 141720000 ps, output data (decimal): -107
+
+Simulation time: 141880000 ps, output data (decimal): -105
+
+Simulation time: 142040000 ps, output data (decimal): -103
+
+Simulation time: 142200000 ps, output data (decimal): -101
+
+Simulation time: 142360000 ps, output data (decimal): -100
+
+Simulation time: 142520000 ps, output data (decimal): -96
+
+Simulation time: 142680000 ps, output data (decimal): -93
+
+Simulation time: 142840000 ps, output data (decimal): -90
+
+Simulation time: 143000000 ps, output data (decimal): -85
+
+Simulation time: 143160000 ps, output data (decimal): -83
+
+Simulation time: 143320000 ps, output data (decimal): -79
+
+Simulation time: 143480000 ps, output data (decimal): -74
+
+Simulation time: 143640000 ps, output data (decimal): -69
+
+Simulation time: 143800000 ps, output data (decimal): -64
+
+Simulation time: 143960000 ps, output data (decimal): -59
+
+Simulation time: 144120000 ps, output data (decimal): -53
+
+Simulation time: 144280000 ps, output data (decimal): -48
+
+Simulation time: 144440000 ps, output data (decimal): -43
+
+Simulation time: 144600000 ps, output data (decimal): -36
+
+Simulation time: 144760000 ps, output data (decimal): -29
+
+Simulation time: 144920000 ps, output data (decimal): -24
+
+Simulation time: 145080000 ps, output data (decimal): -16
+
+Simulation time: 145240000 ps, output data (decimal): -10
+
+Simulation time: 145400000 ps, output data (decimal): -5
+
+Simulation time: 145560000 ps, output data (decimal): 2
+
+Simulation time: 145720000 ps, output data (decimal): 8
+
+Simulation time: 145880000 ps, output data (decimal): 15
+
+Simulation time: 146040000 ps, output data (decimal): 22
+
+Simulation time: 146200000 ps, output data (decimal): 27
+
+Simulation time: 146360000 ps, output data (decimal): 34
+
+Simulation time: 146520000 ps, output data (decimal): 40
+
+Simulation time: 146680000 ps, output data (decimal): 46
+
+Simulation time: 146840000 ps, output data (decimal): 52
+
+Simulation time: 147000000 ps, output data (decimal): 57
+
+Simulation time: 147160000 ps, output data (decimal): 60
+
+Simulation time: 147320000 ps, output data (decimal): 66
+
+Simulation time: 147480000 ps, output data (decimal): 70
+
+Simulation time: 147640000 ps, output data (decimal): 75
+
+Simulation time: 147800000 ps, output data (decimal): 80
+
+Simulation time: 147960000 ps, output data (decimal): 83
+
+Simulation time: 148120000 ps, output data (decimal): 86
+
+Simulation time: 148280000 ps, output data (decimal): 91
+
+Simulation time: 148440000 ps, output data (decimal): 94
+
+Simulation time: 148600000 ps, output data (decimal): 96
+
+Simulation time: 148760000 ps, output data (decimal): 100
+
+Simulation time: 148920000 ps, output data (decimal): 101
+
+Simulation time: 149080000 ps, output data (decimal): 104
+
+Simulation time: 149240000 ps, output data (decimal): 107
+
+Simulation time: 149400000 ps, output data (decimal): 109
+
+Simulation time: 149560000 ps, output data (decimal): 110
+
+Simulation time: 149720000 ps, output data (decimal): 113
+
+Simulation time: 149880000 ps, output data (decimal): 114
+
+Simulation time: 150040000 ps, output data (decimal): 117
+
+Simulation time: 150200000 ps, output data (decimal): 115
+
+Simulation time: 150360000 ps, output data (decimal): 118
+
+Simulation time: 150520000 ps, output data (decimal): 119
+
+Simulation time: 150680000 ps, output data (decimal): 122
+
+Simulation time: 150840000 ps, output data (decimal): 122
+
+Simulation time: 151000000 ps, output data (decimal): 123
+
+Simulation time: 151160000 ps, output data (decimal): 123
+
+Simulation time: 151320000 ps, output data (decimal): 123
+
+Simulation time: 151480000 ps, output data (decimal): 124
+
+Simulation time: 151640000 ps, output data (decimal): 124
+
+Simulation time: 151800000 ps, output data (decimal): 122
+
+Simulation time: 151960000 ps, output data (decimal): 122
+
+Simulation time: 152120000 ps, output data (decimal): 120
+
+Simulation time: 152280000 ps, output data (decimal): 119
+
+Simulation time: 152440000 ps, output data (decimal): 118
+
+Simulation time: 152600000 ps, output data (decimal): 115
+
+Simulation time: 152760000 ps, output data (decimal): 112
+
+Simulation time: 152920000 ps, output data (decimal): 109
+
+Simulation time: 153080000 ps, output data (decimal): 105
+
+Simulation time: 153240000 ps, output data (decimal): 101
+
+Simulation time: 153400000 ps, output data (decimal): 96
+
+Simulation time: 153560000 ps, output data (decimal): 92
+
+Simulation time: 153720000 ps, output data (decimal): 87
+
+Simulation time: 153880000 ps, output data (decimal): 80
+
+Simulation time: 154040000 ps, output data (decimal): 75
+
+Simulation time: 154200000 ps, output data (decimal): 67
+
+Simulation time: 154360000 ps, output data (decimal): 61
+
+Simulation time: 154520000 ps, output data (decimal): 55
+
+Simulation time: 154680000 ps, output data (decimal): 47
+
+Simulation time: 154840000 ps, output data (decimal): 39
+
+Simulation time: 155000000 ps, output data (decimal): 31
+
+Simulation time: 155160000 ps, output data (decimal): 24
+
+Simulation time: 155320000 ps, output data (decimal): 16
+
+Simulation time: 155480000 ps, output data (decimal): 8
+
+Simulation time: 155640000 ps, output data (decimal): 0
+
+Simulation time: 155800000 ps, output data (decimal): -6
+
+Simulation time: 155960000 ps, output data (decimal): -14
+
+Simulation time: 156120000 ps, output data (decimal): -21
+
+Simulation time: 156280000 ps, output data (decimal): -28
+
+Simulation time: 156440000 ps, output data (decimal): -34
+
+Simulation time: 156600000 ps, output data (decimal): -40
+
+Simulation time: 156760000 ps, output data (decimal): -48
+
+Simulation time: 156920000 ps, output data (decimal): -53
+
+Simulation time: 157080000 ps, output data (decimal): -58
+
+Simulation time: 157240000 ps, output data (decimal): -64
+
+Simulation time: 157400000 ps, output data (decimal): -69
+
+Simulation time: 157560000 ps, output data (decimal): -74
+
+Simulation time: 157720000 ps, output data (decimal): -76
+
+Simulation time: 157880000 ps, output data (decimal): -80
+
+Simulation time: 158040000 ps, output data (decimal): -84
+
+Simulation time: 158200000 ps, output data (decimal): -85
+
+Simulation time: 158360000 ps, output data (decimal): -89
+
+Simulation time: 158520000 ps, output data (decimal): -91
+
+Simulation time: 158680000 ps, output data (decimal): -91
+
+Simulation time: 158840000 ps, output data (decimal): -92
+
+Simulation time: 159000000 ps, output data (decimal): -94
+
+Simulation time: 159160000 ps, output data (decimal): -95
+
+Simulation time: 159320000 ps, output data (decimal): -94
+
+Simulation time: 159480000 ps, output data (decimal): -94
+
+Simulation time: 159640000 ps, output data (decimal): -95
+
+Simulation time: 159800000 ps, output data (decimal): -95
+
+Simulation time: 159960000 ps, output data (decimal): -95
+
+Simulation done with: 985 errors
