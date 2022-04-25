@@ -116,9 +116,3 @@ Compiling architecture synth of entity fir_compiler_v7_2_13.delay [\delay(c_dela
 Compiling architecture synth of entity fir_compiler_v7_2_13.delay [\delay(c_delay_len=7,c_xdevicefa...]
 Compiling architecture synth of entity fir_compiler_v7_2_13.delay [\delay(c_delay_len=10,c_xdevicef...]
 Compiling architecture synth of entity fir_compiler_v7_2_13.single_rate [\single_rate(c_xdevicefamily="zy...]
-Compiling architecture synth of entity fir_compiler_v7_2_13.fir_compiler_v7_2_13_viv [\fir_compiler_v7_2_13_viv(c_xdev...]
-Compiling architecture xilinx of entity fir_compiler_v7_2_13.fir_compiler_v7_2_13 [\fir_compiler_v7_2_13(c_xdevicef...]
-Compiling architecture fir_50k_arch of entity xil_defaultlib.FIR_50k [fir_50k_default]
-Compiling architecture structural of entity xil_defaultlib.FIR_50k_wrapper [fir_50k_wrapper_default]
-Compiling architecture tb of entity xil_defaultlib.fir_50k_tb
-Built simulation snapshot FIR_50k_TB_behav
