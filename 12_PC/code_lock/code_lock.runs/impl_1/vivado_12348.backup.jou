@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Mon May  2 09:24:50 2022
+# Process ID: 12348
+# Current directory: D:/Documents/xjasek15/MPC-PLD/12_PC/code_lock/code_lock.runs/impl_1
+# Command line: vivado.exe -log rp_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source rp_top.tcl -notrace
+# Log file: D:/Documents/xjasek15/MPC-PLD/12_PC/code_lock/code_lock.runs/impl_1/rp_top.vdi
+# Journal file: D:/Documents/xjasek15/MPC-PLD/12_PC/code_lock/code_lock.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source rp_top.tcl -notrace
