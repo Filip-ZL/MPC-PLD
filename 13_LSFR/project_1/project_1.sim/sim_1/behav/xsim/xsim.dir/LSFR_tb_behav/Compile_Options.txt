@@ -1,0 +1,1 @@
+-wto "3780155d015e495ab8c0c250ce425d7e" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "LSFR_tb_behav" "xil_defaultlib.LSFR_tb" -log "elaborate.log" 
